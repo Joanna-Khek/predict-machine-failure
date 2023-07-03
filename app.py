@@ -32,7 +32,8 @@ def load_clf():
 
 @app.get("/")
 def home():
-    return "API is working. Head over to http://localhost:80/docs"
+    return {"name": "Predict Machine Failure",
+            "version": "v1.0.0"}
 
 @app.post("/predict")
 def predict(machine: Machine):
