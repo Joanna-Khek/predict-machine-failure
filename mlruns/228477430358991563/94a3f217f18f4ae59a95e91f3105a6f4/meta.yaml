@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/94a3f217f18f4ae59a95e91f3105a6f4/artifacts
+end_time: 1688190745525
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 94a3f217f18f4ae59a95e91f3105a6f4
+run_name: able-midge-325
+run_uuid: 94a3f217f18f4ae59a95e91f3105a6f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688190685615
+status: 3
+tags: []
+user_id: Joanna

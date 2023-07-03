@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/407578dd5e6d437b8572f42967a0390a/artifacts
+deleted_time: 1687941387286
+end_time: 1687940581560
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: 407578dd5e6d437b8572f42967a0390a
+run_name: crawling-kit-536
+run_uuid: 407578dd5e6d437b8572f42967a0390a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940566230
+status: 3
+tags: []
+user_id: Joanna

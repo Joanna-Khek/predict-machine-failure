@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/67727d57b1064096a8045a24881a2f5c/artifacts
+deleted_time: 1687944313932
+end_time: 1687943727582
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: 67727d57b1064096a8045a24881a2f5c
+run_name: resilient-sponge-503
+run_uuid: 67727d57b1064096a8045a24881a2f5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687943718140
+status: 3
+tags: []
+user_id: Joanna

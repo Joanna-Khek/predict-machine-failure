@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/eeb22524ac7f48e8ae15866187fb3b0b/artifacts
+deleted_time: 1687941387286
+end_time: 1687939960301
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: eeb22524ac7f48e8ae15866187fb3b0b
+run_name: handsome-shrike-634
+run_uuid: eeb22524ac7f48e8ae15866187fb3b0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687939952303
+status: 3
+tags: []
+user_id: Joanna

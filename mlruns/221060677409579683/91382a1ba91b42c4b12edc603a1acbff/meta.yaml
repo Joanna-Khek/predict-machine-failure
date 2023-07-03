@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/91382a1ba91b42c4b12edc603a1acbff/artifacts
+end_time: 1688185590477
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 91382a1ba91b42c4b12edc603a1acbff
+run_name: omniscient-lynx-659
+run_uuid: 91382a1ba91b42c4b12edc603a1acbff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185577368
+status: 3
+tags: []
+user_id: Joanna

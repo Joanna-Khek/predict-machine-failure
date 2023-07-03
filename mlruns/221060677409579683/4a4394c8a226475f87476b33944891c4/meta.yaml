@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/4a4394c8a226475f87476b33944891c4/artifacts
+end_time: 1687959175689
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 4a4394c8a226475f87476b33944891c4
+run_name: wistful-stork-352
+run_uuid: 4a4394c8a226475f87476b33944891c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959163593
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/b983e3d53bb140a4a2e0792f1bf7572b/artifacts
+end_time: 1688184531570
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: b983e3d53bb140a4a2e0792f1bf7572b
+run_name: fun-shark-300
+run_uuid: b983e3d53bb140a4a2e0792f1bf7572b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688184522079
+status: 3
+tags: []
+user_id: Joanna

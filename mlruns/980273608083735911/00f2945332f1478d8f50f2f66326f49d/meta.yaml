@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/00f2945332f1478d8f50f2f66326f49d/artifacts
+end_time: 1687951655503
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 00f2945332f1478d8f50f2f66326f49d
+run_name: resilient-cow-469
+run_uuid: 00f2945332f1478d8f50f2f66326f49d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687951638096
+status: 3
+tags: []
+user_id: Joanna

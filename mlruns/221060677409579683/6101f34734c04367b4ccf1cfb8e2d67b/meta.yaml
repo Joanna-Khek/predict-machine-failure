@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/6101f34734c04367b4ccf1cfb8e2d67b/artifacts
+end_time: 1688185623106
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 6101f34734c04367b4ccf1cfb8e2d67b
+run_name: orderly-mare-73
+run_uuid: 6101f34734c04367b4ccf1cfb8e2d67b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185607080
+status: 3
+tags: []
+user_id: Joanna

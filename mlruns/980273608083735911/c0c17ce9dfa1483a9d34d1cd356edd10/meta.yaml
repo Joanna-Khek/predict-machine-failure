@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/c0c17ce9dfa1483a9d34d1cd356edd10/artifacts
+end_time: 1687950256191
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: c0c17ce9dfa1483a9d34d1cd356edd10
+run_name: serious-gnat-804
+run_uuid: c0c17ce9dfa1483a9d34d1cd356edd10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687950246370
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/0cd8ef2001594871b3ad78c820fd4e3c/artifacts
+end_time: 1688351668044
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 0cd8ef2001594871b3ad78c820fd4e3c
+run_name: bedecked-boar-707
+run_uuid: 0cd8ef2001594871b3ad78c820fd4e3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688351658363
+status: 3
+tags: []
+user_id: Joanna

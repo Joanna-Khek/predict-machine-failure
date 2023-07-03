@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/3625fccb963d47288f265acb828061ad/artifacts
+end_time: 1688352010288
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 3625fccb963d47288f265acb828061ad
+run_name: unique-swan-508
+run_uuid: 3625fccb963d47288f265acb828061ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688351997098
+status: 3
+tags: []
+user_id: Joanna

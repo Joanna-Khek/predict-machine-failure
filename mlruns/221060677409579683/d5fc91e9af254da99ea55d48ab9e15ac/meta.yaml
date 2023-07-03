@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/d5fc91e9af254da99ea55d48ab9e15ac/artifacts
+end_time: 1688185221771
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: d5fc91e9af254da99ea55d48ab9e15ac
+run_name: bustling-duck-951
+run_uuid: d5fc91e9af254da99ea55d48ab9e15ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185206179
+status: 3
+tags: []
+user_id: Joanna

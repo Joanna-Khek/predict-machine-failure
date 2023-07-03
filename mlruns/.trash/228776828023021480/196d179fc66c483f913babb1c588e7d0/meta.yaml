@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/196d179fc66c483f913babb1c588e7d0/artifacts
+deleted_time: 1687948532539
+end_time: 1687947851879
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: 196d179fc66c483f913babb1c588e7d0
+run_name: auspicious-colt-451
+run_uuid: 196d179fc66c483f913babb1c588e7d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687947821000
+status: 3
+tags: []
+user_id: Joanna

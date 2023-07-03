@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/e28228aa1cf04c15b451f91ec8b7152d/artifacts
+end_time: 1687955200932
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: e28228aa1cf04c15b451f91ec8b7152d
+run_name: intelligent-owl-562
+run_uuid: e28228aa1cf04c15b451f91ec8b7152d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687955192316
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/362948683d4844029b64c26249d71dd7/artifacts
+end_time: 1688198570605
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 362948683d4844029b64c26249d71dd7
+run_name: able-bear-364
+run_uuid: 362948683d4844029b64c26249d71dd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198559953
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/2f7236c0de0b4b2bb3794f276171e24e/artifacts
+end_time: 1688184445273
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 2f7236c0de0b4b2bb3794f276171e24e
+run_name: funny-squid-592
+run_uuid: 2f7236c0de0b4b2bb3794f276171e24e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688184437309
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/fedf2b6c270e4e4ab3de273de87c2332/artifacts
+end_time: 1687959421135
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: fedf2b6c270e4e4ab3de273de87c2332
+run_name: dapper-panda-536
+run_uuid: fedf2b6c270e4e4ab3de273de87c2332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959409977
+status: 3
+tags: []
+user_id: Joanna

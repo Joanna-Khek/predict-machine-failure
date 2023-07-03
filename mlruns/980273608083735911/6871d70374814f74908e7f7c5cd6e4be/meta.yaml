@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/6871d70374814f74908e7f7c5cd6e4be/artifacts
+end_time: 1687949267472
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 6871d70374814f74908e7f7c5cd6e4be
+run_name: caring-lynx-677
+run_uuid: 6871d70374814f74908e7f7c5cd6e4be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687949257396
+status: 3
+tags: []
+user_id: Joanna

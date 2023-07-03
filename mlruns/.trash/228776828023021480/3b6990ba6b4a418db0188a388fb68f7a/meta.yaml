@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/3b6990ba6b4a418db0188a388fb68f7a/artifacts
+deleted_time: 1687948532539
+end_time: 1687947497081
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: 3b6990ba6b4a418db0188a388fb68f7a
+run_name: agreeable-bird-910
+run_uuid: 3b6990ba6b4a418db0188a388fb68f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687947484208
+status: 3
+tags: []
+user_id: Joanna

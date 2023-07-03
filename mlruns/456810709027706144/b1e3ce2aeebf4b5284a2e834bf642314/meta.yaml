@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/b1e3ce2aeebf4b5284a2e834bf642314/artifacts
+end_time: 1687952632184
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: b1e3ce2aeebf4b5284a2e834bf642314
+run_name: intelligent-wren-997
+run_uuid: b1e3ce2aeebf4b5284a2e834bf642314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687952610869
+status: 3
+tags: []
+user_id: Joanna

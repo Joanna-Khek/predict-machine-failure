@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/1642e62ea940422cb2c85c72a3014852/artifacts
+end_time: 1688198458783
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 1642e62ea940422cb2c85c72a3014852
+run_name: nimble-duck-23
+run_uuid: 1642e62ea940422cb2c85c72a3014852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198440163
+status: 3
+tags: []
+user_id: Joanna

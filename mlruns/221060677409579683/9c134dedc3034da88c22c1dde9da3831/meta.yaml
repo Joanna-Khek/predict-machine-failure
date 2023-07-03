@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/9c134dedc3034da88c22c1dde9da3831/artifacts
+end_time: 1687959190855
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 9c134dedc3034da88c22c1dde9da3831
+run_name: enthused-cod-15
+run_uuid: 9c134dedc3034da88c22c1dde9da3831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959175704
+status: 3
+tags: []
+user_id: Joanna

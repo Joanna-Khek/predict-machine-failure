@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/6db8effc2b064e1985a9dc341ed9ef0c/artifacts
+end_time: 1688196166063
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 6db8effc2b064e1985a9dc341ed9ef0c
+run_name: grandiose-horse-479
+run_uuid: 6db8effc2b064e1985a9dc341ed9ef0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196156347
+status: 3
+tags: []
+user_id: Joanna

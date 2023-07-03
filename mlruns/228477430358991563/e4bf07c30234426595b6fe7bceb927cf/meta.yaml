@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/e4bf07c30234426595b6fe7bceb927cf/artifacts
+end_time: 1687944776293
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: e4bf07c30234426595b6fe7bceb927cf
+run_name: agreeable-shrew-760
+run_uuid: e4bf07c30234426595b6fe7bceb927cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687944741752
+status: 3
+tags: []
+user_id: Joanna

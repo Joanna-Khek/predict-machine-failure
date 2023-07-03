@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/1cf91e778e0c405ab14a649145b09db3/artifacts
+end_time: 1687958078568
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 1cf91e778e0c405ab14a649145b09db3
+run_name: gregarious-foal-713
+run_uuid: 1cf91e778e0c405ab14a649145b09db3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687958072325
+status: 3
+tags: []
+user_id: Joanna

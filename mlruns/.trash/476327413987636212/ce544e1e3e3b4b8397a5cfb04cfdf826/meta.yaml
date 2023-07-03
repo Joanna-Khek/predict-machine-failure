@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/476327413987636212/ce544e1e3e3b4b8397a5cfb04cfdf826/artifacts
+deleted_time: 1687940114589
+end_time: 1687934014806
+entry_point_name: ''
+experiment_id: '476327413987636212'
+lifecycle_stage: deleted
+run_id: ce544e1e3e3b4b8397a5cfb04cfdf826
+run_name: blushing-stag-895
+run_uuid: ce544e1e3e3b4b8397a5cfb04cfdf826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687933971919
+status: 3
+tags: []
+user_id: Joanna

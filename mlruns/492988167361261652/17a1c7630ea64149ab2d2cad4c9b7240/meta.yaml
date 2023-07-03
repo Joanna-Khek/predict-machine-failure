@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/17a1c7630ea64149ab2d2cad4c9b7240/artifacts
+end_time: 1688184710317
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 17a1c7630ea64149ab2d2cad4c9b7240
+run_name: selective-auk-865
+run_uuid: 17a1c7630ea64149ab2d2cad4c9b7240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688184701473
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/0873c63226794fada5967ed0d0b4bee1/artifacts
+deleted_time: 1687941387286
+end_time: 1687940263615
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: 0873c63226794fada5967ed0d0b4bee1
+run_name: casual-owl-921
+run_uuid: 0873c63226794fada5967ed0d0b4bee1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940233223
+status: 3
+tags: []
+user_id: Joanna

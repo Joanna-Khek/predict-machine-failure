@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/a36d65e319a140308c8ad74294bda739/artifacts
+deleted_time: 1687941389148
+end_time: 1687935109794
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: a36d65e319a140308c8ad74294bda739
+run_name: righteous-lamb-734
+run_uuid: a36d65e319a140308c8ad74294bda739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935099130
+status: 3
+tags: []
+user_id: Joanna

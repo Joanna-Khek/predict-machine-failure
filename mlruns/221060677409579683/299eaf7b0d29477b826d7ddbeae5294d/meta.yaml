@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/299eaf7b0d29477b826d7ddbeae5294d/artifacts
+end_time: 1687959579764
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 299eaf7b0d29477b826d7ddbeae5294d
+run_name: trusting-toad-648
+run_uuid: 299eaf7b0d29477b826d7ddbeae5294d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959569177
+status: 3
+tags: []
+user_id: Joanna

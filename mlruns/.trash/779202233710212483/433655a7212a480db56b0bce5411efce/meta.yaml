@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/433655a7212a480db56b0bce5411efce/artifacts
+deleted_time: 1687941389148
+end_time: 1687935036368
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 433655a7212a480db56b0bce5411efce
+run_name: loud-bird-341
+run_uuid: 433655a7212a480db56b0bce5411efce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935024142
+status: 3
+tags: []
+user_id: Joanna

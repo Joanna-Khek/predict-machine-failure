@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/3eac3f693f5842059b5fa4dfff60d7ac/artifacts
+deleted_time: 1687934523504
+end_time: 1687934380360
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 3eac3f693f5842059b5fa4dfff60d7ac
+run_name: debonair-kit-665
+run_uuid: 3eac3f693f5842059b5fa4dfff60d7ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934342624
+status: 3
+tags: []
+user_id: Joanna

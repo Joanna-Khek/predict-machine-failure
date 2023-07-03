@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/45ae5c8848174932a590e2d763f2cc07/artifacts
+end_time: 1687949163805
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 45ae5c8848174932a590e2d763f2cc07
+run_name: monumental-roo-323
+run_uuid: 45ae5c8848174932a590e2d763f2cc07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687949155613
+status: 3
+tags: []
+user_id: Joanna

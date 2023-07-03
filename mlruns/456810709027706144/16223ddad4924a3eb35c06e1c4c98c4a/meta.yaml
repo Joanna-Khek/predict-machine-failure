@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/16223ddad4924a3eb35c06e1c4c98c4a/artifacts
+end_time: 1688197632039
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 16223ddad4924a3eb35c06e1c4c98c4a
+run_name: bedecked-carp-421
+run_uuid: 16223ddad4924a3eb35c06e1c4c98c4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688197603409
+status: 3
+tags: []
+user_id: Joanna

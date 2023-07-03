@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/e3e45877947749a093cb582318ba90b0/artifacts
+end_time: 1688198287197
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: e3e45877947749a093cb582318ba90b0
+run_name: crawling-mink-570
+run_uuid: e3e45877947749a093cb582318ba90b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198276606
+status: 3
+tags: []
+user_id: Joanna

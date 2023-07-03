@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/88502f222a7046f79628e45e807b0a49/artifacts
+end_time: 1687959898079
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 88502f222a7046f79628e45e807b0a49
+run_name: ambitious-bat-850
+run_uuid: 88502f222a7046f79628e45e807b0a49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959887670
+status: 3
+tags: []
+user_id: Joanna

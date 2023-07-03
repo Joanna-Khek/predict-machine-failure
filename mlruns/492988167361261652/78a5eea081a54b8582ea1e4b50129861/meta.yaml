@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/78a5eea081a54b8582ea1e4b50129861/artifacts
+end_time: 1688351842488
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 78a5eea081a54b8582ea1e4b50129861
+run_name: gentle-doe-326
+run_uuid: 78a5eea081a54b8582ea1e4b50129861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688351832558
+status: 3
+tags: []
+user_id: Joanna

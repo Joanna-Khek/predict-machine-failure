@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/3a27e45b4ae24bd4922d0aa7c082e349/artifacts
+end_time: 1687945776834
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 3a27e45b4ae24bd4922d0aa7c082e349
+run_name: crawling-horse-362
+run_uuid: 3a27e45b4ae24bd4922d0aa7c082e349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687945707589
+status: 3
+tags: []
+user_id: Joanna

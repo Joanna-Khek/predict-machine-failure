@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/c5c1eef23f5a4b279dc349ca2532e03c/artifacts
+deleted_time: 1687941389148
+end_time: 1687934919901
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: c5c1eef23f5a4b279dc349ca2532e03c
+run_name: righteous-hawk-781
+run_uuid: c5c1eef23f5a4b279dc349ca2532e03c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934900003
+status: 3
+tags: []
+user_id: Joanna

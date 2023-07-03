@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/fea5708c9f6345c58cd6fbe72d3772ac/artifacts
+deleted_time: 1687944313932
+end_time: 1687943759143
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: fea5708c9f6345c58cd6fbe72d3772ac
+run_name: amazing-mule-353
+run_uuid: fea5708c9f6345c58cd6fbe72d3772ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687943750616
+status: 3
+tags: []
+user_id: Joanna

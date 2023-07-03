@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/efb5ba00bc2849f89c7a2c2480a43060/artifacts
+end_time: 1687955337421
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: efb5ba00bc2849f89c7a2c2480a43060
+run_name: defiant-duck-645
+run_uuid: efb5ba00bc2849f89c7a2c2480a43060
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687955328728
+status: 3
+tags: []
+user_id: Joanna

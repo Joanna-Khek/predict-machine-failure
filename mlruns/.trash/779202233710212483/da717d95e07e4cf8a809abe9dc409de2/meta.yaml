@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/da717d95e07e4cf8a809abe9dc409de2/artifacts
+deleted_time: 1687941389148
+end_time: 1687935194422
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: da717d95e07e4cf8a809abe9dc409de2
+run_name: stylish-eel-866
+run_uuid: da717d95e07e4cf8a809abe9dc409de2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935179488
+status: 3
+tags: []
+user_id: Joanna

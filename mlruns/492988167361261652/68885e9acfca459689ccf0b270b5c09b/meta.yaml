@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/68885e9acfca459689ccf0b270b5c09b/artifacts
+end_time: 1688199137796
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 68885e9acfca459689ccf0b270b5c09b
+run_name: unruly-shark-357
+run_uuid: 68885e9acfca459689ccf0b270b5c09b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688199126755
+status: 3
+tags: []
+user_id: Joanna

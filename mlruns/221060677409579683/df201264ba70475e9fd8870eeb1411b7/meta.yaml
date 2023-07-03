@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/df201264ba70475e9fd8870eeb1411b7/artifacts
+end_time: 1688351539863
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: df201264ba70475e9fd8870eeb1411b7
+run_name: rare-ox-469
+run_uuid: df201264ba70475e9fd8870eeb1411b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688351530277
+status: 3
+tags: []
+user_id: Joanna

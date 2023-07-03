@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/2b037d1640134ed3b926346a89a8d28b/artifacts
+end_time: 1688196517349
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 2b037d1640134ed3b926346a89a8d28b
+run_name: handsome-carp-676
+run_uuid: 2b037d1640134ed3b926346a89a8d28b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196508431
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683
+creation_time: 1687953772212
+experiment_id: '221060677409579683'
+last_update_time: 1687953772212
+lifecycle_stage: active
+name: xgboost-hyperopt-cv

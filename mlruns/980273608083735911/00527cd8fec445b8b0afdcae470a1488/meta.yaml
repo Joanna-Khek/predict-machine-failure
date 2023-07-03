@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/00527cd8fec445b8b0afdcae470a1488/artifacts
+end_time: 1688196423316
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 00527cd8fec445b8b0afdcae470a1488
+run_name: legendary-chimp-126
+run_uuid: 00527cd8fec445b8b0afdcae470a1488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196412410
+status: 3
+tags: []
+user_id: Joanna

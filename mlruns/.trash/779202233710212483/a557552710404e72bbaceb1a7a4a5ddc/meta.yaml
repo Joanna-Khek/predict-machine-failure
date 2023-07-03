@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/a557552710404e72bbaceb1a7a4a5ddc/artifacts
+deleted_time: 1687941389148
+end_time: 1687935392434
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: a557552710404e72bbaceb1a7a4a5ddc
+run_name: melodic-crow-379
+run_uuid: a557552710404e72bbaceb1a7a4a5ddc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935376241
+status: 3
+tags: []
+user_id: Joanna

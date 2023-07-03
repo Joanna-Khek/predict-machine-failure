@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/ba8e0242bfd74d5b8b902533135c1273/artifacts
+end_time: 1687949368064
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: ba8e0242bfd74d5b8b902533135c1273
+run_name: lyrical-wren-122
+run_uuid: ba8e0242bfd74d5b8b902533135c1273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687949337111
+status: 3
+tags: []
+user_id: Joanna

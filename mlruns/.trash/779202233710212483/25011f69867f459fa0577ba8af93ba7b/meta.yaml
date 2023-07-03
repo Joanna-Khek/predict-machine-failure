@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/25011f69867f459fa0577ba8af93ba7b/artifacts
+deleted_time: 1687941389148
+end_time: 1687935126564
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 25011f69867f459fa0577ba8af93ba7b
+run_name: thundering-crane-662
+run_uuid: 25011f69867f459fa0577ba8af93ba7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935109818
+status: 3
+tags: []
+user_id: Joanna

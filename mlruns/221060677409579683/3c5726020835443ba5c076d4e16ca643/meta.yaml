@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/3c5726020835443ba5c076d4e16ca643/artifacts
+end_time: 1688198498332
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 3c5726020835443ba5c076d4e16ca643
+run_name: welcoming-foal-885
+run_uuid: 3c5726020835443ba5c076d4e16ca643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198483060
+status: 3
+tags: []
+user_id: Joanna

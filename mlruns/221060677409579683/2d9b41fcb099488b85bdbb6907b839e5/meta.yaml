@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/2d9b41fcb099488b85bdbb6907b839e5/artifacts
+end_time: 1688351003963
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 2d9b41fcb099488b85bdbb6907b839e5
+run_name: overjoyed-stag-48
+run_uuid: 2d9b41fcb099488b85bdbb6907b839e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688350987492
+status: 3
+tags: []
+user_id: Joanna

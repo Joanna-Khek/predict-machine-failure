@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/38c6f14436874b458d877628c977f55c/artifacts
+end_time: 1687955414630
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 38c6f14436874b458d877628c977f55c
+run_name: bustling-grub-189
+run_uuid: 38c6f14436874b458d877628c977f55c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687955405400
+status: 3
+tags: []
+user_id: Joanna

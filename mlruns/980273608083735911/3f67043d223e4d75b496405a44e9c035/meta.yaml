@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/3f67043d223e4d75b496405a44e9c035/artifacts
+end_time: 1688196219933
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 3f67043d223e4d75b496405a44e9c035
+run_name: fearless-colt-756
+run_uuid: 3f67043d223e4d75b496405a44e9c035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196206839
+status: 3
+tags: []
+user_id: Joanna

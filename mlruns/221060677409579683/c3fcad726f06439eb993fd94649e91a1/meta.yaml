@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/c3fcad726f06439eb993fd94649e91a1/artifacts
+end_time: 1688185269787
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: c3fcad726f06439eb993fd94649e91a1
+run_name: painted-ray-719
+run_uuid: c3fcad726f06439eb993fd94649e91a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185261448
+status: 3
+tags: []
+user_id: Joanna

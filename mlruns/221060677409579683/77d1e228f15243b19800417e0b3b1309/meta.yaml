@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/77d1e228f15243b19800417e0b3b1309/artifacts
+end_time: 1688351139633
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 77d1e228f15243b19800417e0b3b1309
+run_name: unequaled-hawk-909
+run_uuid: 77d1e228f15243b19800417e0b3b1309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688351129776
+status: 3
+tags: []
+user_id: Joanna

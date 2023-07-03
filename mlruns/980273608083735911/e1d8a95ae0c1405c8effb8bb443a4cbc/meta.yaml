@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/e1d8a95ae0c1405c8effb8bb443a4cbc/artifacts
+end_time: 1687951486750
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: e1d8a95ae0c1405c8effb8bb443a4cbc
+run_name: glamorous-sponge-776
+run_uuid: e1d8a95ae0c1405c8effb8bb443a4cbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687951472483
+status: 3
+tags: []
+user_id: Joanna

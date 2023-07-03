@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/375f37b6b9a64c2d88be0244a8a3292d/artifacts
+end_time: 1687945622407
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 375f37b6b9a64c2d88be0244a8a3292d
+run_name: enchanting-owl-287
+run_uuid: 375f37b6b9a64c2d88be0244a8a3292d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687945577603
+status: 3
+tags: []
+user_id: Joanna

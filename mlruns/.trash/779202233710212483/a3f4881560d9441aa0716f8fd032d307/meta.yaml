@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/a3f4881560d9441aa0716f8fd032d307/artifacts
+deleted_time: 1687941389148
+end_time: 1687935420469
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: a3f4881560d9441aa0716f8fd032d307
+run_name: enthused-smelt-462
+run_uuid: a3f4881560d9441aa0716f8fd032d307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935406849
+status: 3
+tags: []
+user_id: Joanna

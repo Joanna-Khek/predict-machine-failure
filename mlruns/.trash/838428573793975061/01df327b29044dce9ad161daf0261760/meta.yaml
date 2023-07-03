@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/01df327b29044dce9ad161daf0261760/artifacts
+deleted_time: 1687941387286
+end_time: 1687940207195
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: 01df327b29044dce9ad161daf0261760
+run_name: youthful-roo-23
+run_uuid: 01df327b29044dce9ad161daf0261760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940188768
+status: 3
+tags: []
+user_id: Joanna

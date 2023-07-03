@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/d75760e27dc14979b0b9d7b227b251ba/artifacts
+end_time: 1687949483970
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: d75760e27dc14979b0b9d7b227b251ba
+run_name: able-newt-434
+run_uuid: d75760e27dc14979b0b9d7b227b251ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687949476311
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/f8d644fb5bfd4790be9d7c31cdea5565/artifacts
+end_time: 1688188988030
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: f8d644fb5bfd4790be9d7c31cdea5565
+run_name: spiffy-dove-888
+run_uuid: f8d644fb5bfd4790be9d7c31cdea5565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688188959945
+status: 3
+tags: []
+user_id: Joanna

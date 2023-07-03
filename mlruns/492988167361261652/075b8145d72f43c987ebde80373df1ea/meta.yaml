@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/075b8145d72f43c987ebde80373df1ea/artifacts
+end_time: 1687955051504
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 075b8145d72f43c987ebde80373df1ea
+run_name: polite-sloth-623
+run_uuid: 075b8145d72f43c987ebde80373df1ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687955044483
+status: 3
+tags: []
+user_id: Joanna

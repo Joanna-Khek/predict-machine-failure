@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/86bd5a7aaea04b7eb9a61f37ad9ecb1f/artifacts
+end_time: 1688196206826
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 86bd5a7aaea04b7eb9a61f37ad9ecb1f
+run_name: luxuriant-wolf-751
+run_uuid: 86bd5a7aaea04b7eb9a61f37ad9ecb1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196195250
+status: 3
+tags: []
+user_id: Joanna

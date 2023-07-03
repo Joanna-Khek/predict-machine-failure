@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/bfd67af5d4d248d19fc603c32d1af71d/artifacts
+end_time: 1688351624609
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: bfd67af5d4d248d19fc603c32d1af71d
+run_name: overjoyed-dog-542
+run_uuid: bfd67af5d4d248d19fc603c32d1af71d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688351614542
+status: 3
+tags: []
+user_id: Joanna

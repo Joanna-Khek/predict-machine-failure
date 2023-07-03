@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/a4e529302538471b83f3304c91c4bb40/artifacts
+end_time: 1688196485135
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: a4e529302538471b83f3304c91c4bb40
+run_name: abundant-rat-848
+run_uuid: a4e529302538471b83f3304c91c4bb40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196477537
+status: 3
+tags: []
+user_id: Joanna

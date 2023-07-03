@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/27fdda391f0a4efcb0885d0425d630f2/artifacts
+deleted_time: 1687944313932
+end_time: 1687943904823
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: 27fdda391f0a4efcb0885d0425d630f2
+run_name: clumsy-bee-158
+run_uuid: 27fdda391f0a4efcb0885d0425d630f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687943892903
+status: 3
+tags: []
+user_id: Joanna

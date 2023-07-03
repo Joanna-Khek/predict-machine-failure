@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/5924e20eb7044da8a87312dce6a28f7c/artifacts
+end_time: 1687952431932
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 5924e20eb7044da8a87312dce6a28f7c
+run_name: stately-trout-56
+run_uuid: 5924e20eb7044da8a87312dce6a28f7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687952393994
+status: 3
+tags: []
+user_id: Joanna

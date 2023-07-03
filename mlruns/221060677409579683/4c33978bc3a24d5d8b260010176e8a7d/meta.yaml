@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/4c33978bc3a24d5d8b260010176e8a7d/artifacts
+end_time: 1687954080698
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 4c33978bc3a24d5d8b260010176e8a7d
+run_name: resilient-mouse-768
+run_uuid: 4c33978bc3a24d5d8b260010176e8a7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687954071369
+status: 3
+tags: []
+user_id: Joanna

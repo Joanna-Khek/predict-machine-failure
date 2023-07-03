@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/4e6a2a223ed940398b0461e830575e97/artifacts
+end_time: 1688198966425
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 4e6a2a223ed940398b0461e830575e97
+run_name: delicate-ant-725
+run_uuid: 4e6a2a223ed940398b0461e830575e97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198955887
+status: 3
+tags: []
+user_id: Joanna

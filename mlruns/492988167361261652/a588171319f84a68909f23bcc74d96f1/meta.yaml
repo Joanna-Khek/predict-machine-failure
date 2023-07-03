@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/a588171319f84a68909f23bcc74d96f1/artifacts
+end_time: 1688184608761
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: a588171319f84a68909f23bcc74d96f1
+run_name: amusing-doe-317
+run_uuid: a588171319f84a68909f23bcc74d96f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688184601553
+status: 3
+tags: []
+user_id: Joanna

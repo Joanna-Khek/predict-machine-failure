@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/0e0eae54b3fd47629072894169852c2f/artifacts
+end_time: 1687959668501
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 0e0eae54b3fd47629072894169852c2f
+run_name: dapper-whale-85
+run_uuid: 0e0eae54b3fd47629072894169852c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959660338
+status: 3
+tags: []
+user_id: Joanna

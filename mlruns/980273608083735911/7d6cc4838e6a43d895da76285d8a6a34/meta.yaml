@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/7d6cc4838e6a43d895da76285d8a6a34/artifacts
+end_time: 1688196146793
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 7d6cc4838e6a43d895da76285d8a6a34
+run_name: likeable-hen-456
+run_uuid: 7d6cc4838e6a43d895da76285d8a6a34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196136468
+status: 3
+tags: []
+user_id: Joanna

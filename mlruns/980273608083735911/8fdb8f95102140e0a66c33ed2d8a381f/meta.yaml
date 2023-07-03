@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/8fdb8f95102140e0a66c33ed2d8a381f/artifacts
+end_time: 1687950419102
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 8fdb8f95102140e0a66c33ed2d8a381f
+run_name: abrasive-rat-228
+run_uuid: 8fdb8f95102140e0a66c33ed2d8a381f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687950395083
+status: 3
+tags: []
+user_id: Joanna

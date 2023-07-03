@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/bc26809bd7914cd0887c170d3ae62f80/artifacts
+end_time: 1687955141768
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: bc26809bd7914cd0887c170d3ae62f80
+run_name: merciful-wren-592
+run_uuid: bc26809bd7914cd0887c170d3ae62f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687955134499
+status: 3
+tags: []
+user_id: Joanna

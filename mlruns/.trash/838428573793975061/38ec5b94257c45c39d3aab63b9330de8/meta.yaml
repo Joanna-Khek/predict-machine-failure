@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/38ec5b94257c45c39d3aab63b9330de8/artifacts
+deleted_time: 1687941387286
+end_time: 1687940855700
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: 38ec5b94257c45c39d3aab63b9330de8
+run_name: useful-lamb-326
+run_uuid: 38ec5b94257c45c39d3aab63b9330de8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940831512
+status: 3
+tags: []
+user_id: Joanna

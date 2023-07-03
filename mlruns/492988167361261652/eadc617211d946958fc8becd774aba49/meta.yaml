@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/eadc617211d946958fc8becd774aba49/artifacts
+end_time: 1688351924945
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: eadc617211d946958fc8becd774aba49
+run_name: intrigued-gnat-916
+run_uuid: eadc617211d946958fc8becd774aba49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688351910418
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/18237839366c42ac93cca018bc98fa13/artifacts
+deleted_time: 1687944313932
+end_time: 1687943641605
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: 18237839366c42ac93cca018bc98fa13
+run_name: capricious-wasp-351
+run_uuid: 18237839366c42ac93cca018bc98fa13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687943633169
+status: 3
+tags: []
+user_id: Joanna

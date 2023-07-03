@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/49345a77924b42a19bfd0d4fb36d287c/artifacts
+deleted_time: 1687941389148
+end_time: 1687934815807
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 49345a77924b42a19bfd0d4fb36d287c
+run_name: delicate-grouse-295
+run_uuid: 49345a77924b42a19bfd0d4fb36d287c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934794204
+status: 3
+tags: []
+user_id: Joanna

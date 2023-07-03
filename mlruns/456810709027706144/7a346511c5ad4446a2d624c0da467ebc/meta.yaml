@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/7a346511c5ad4446a2d624c0da467ebc/artifacts
+end_time: 1688198147111
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 7a346511c5ad4446a2d624c0da467ebc
+run_name: classy-lynx-784
+run_uuid: 7a346511c5ad4446a2d624c0da467ebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198118903
+status: 3
+tags: []
+user_id: Joanna

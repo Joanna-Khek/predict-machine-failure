@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/a4da022678784ae984a2ad7a622fc620/artifacts
+end_time: 1687949229122
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: a4da022678784ae984a2ad7a622fc620
+run_name: welcoming-fly-609
+run_uuid: a4da022678784ae984a2ad7a622fc620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687949179215
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/49730763df8642e79258f7c826561c0e/artifacts
+end_time: 1687957409946
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 49730763df8642e79258f7c826561c0e
+run_name: tasteful-newt-870
+run_uuid: 49730763df8642e79258f7c826561c0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687957402265
+status: 3
+tags: []
+user_id: Joanna

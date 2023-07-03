@@ -1,0 +1,20 @@
+raw_data_path: data/raw/
+pickle_path: data/pickle/
+processed_data_path: data/processed/
+
+train_data: train.csv
+test_data: test.csv
+
+drop_columns: ['id']
+feature_selection_drop_columns: ['RNF', 'ProductID_freq']
+
+columns: {'Product ID': 'ProductID',
+          'Air temperature [K]': 'AirTemperature',
+          'Process temperature [K]': 'ProcessTemperature',
+          'Rotational speed [rpm]': 'RotationalSpeed',
+          'Torque [Nm]': 'Torque',
+          'Tool wear [min]': 'ToolWear',
+          'Machine failure': 'MachineFailure'}
+
+    
+  

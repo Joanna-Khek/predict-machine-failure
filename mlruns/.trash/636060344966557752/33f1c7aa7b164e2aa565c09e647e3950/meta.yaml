@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/33f1c7aa7b164e2aa565c09e647e3950/artifacts
+deleted_time: 1687944313932
+end_time: 1687942254666
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: 33f1c7aa7b164e2aa565c09e647e3950
+run_name: sincere-wren-361
+run_uuid: 33f1c7aa7b164e2aa565c09e647e3950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687942083427
+status: 3
+tags: []
+user_id: Joanna

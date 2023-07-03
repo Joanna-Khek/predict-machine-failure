@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/bf7fc2f6554e4c95af99e70833d326ae/artifacts
+end_time: 1688197663562
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: bf7fc2f6554e4c95af99e70833d326ae
+run_name: welcoming-kit-691
+run_uuid: bf7fc2f6554e4c95af99e70833d326ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688197632054
+status: 3
+tags: []
+user_id: Joanna

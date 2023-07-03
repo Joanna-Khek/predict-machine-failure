@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/e6f7512afef84cd98d322e7e3f9b52de/artifacts
+deleted_time: 1687948532539
+end_time: 1687947895889
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: e6f7512afef84cd98d322e7e3f9b52de
+run_name: luxuriant-fly-17
+run_uuid: e6f7512afef84cd98d322e7e3f9b52de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687947879624
+status: 3
+tags: []
+user_id: Joanna

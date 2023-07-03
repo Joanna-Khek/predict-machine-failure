@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/21f3e2cc94eb4870825f6eb359f3fc45/artifacts
+end_time: 1687955468670
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 21f3e2cc94eb4870825f6eb359f3fc45
+run_name: monumental-lark-780
+run_uuid: 21f3e2cc94eb4870825f6eb359f3fc45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687955457276
+status: 3
+tags: []
+user_id: Joanna

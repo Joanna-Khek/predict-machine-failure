@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/40921e48ba1c42debb500a60ef112e77/artifacts
+end_time: 1688188604170
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 40921e48ba1c42debb500a60ef112e77
+run_name: glamorous-dog-952
+run_uuid: 40921e48ba1c42debb500a60ef112e77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688188497384
+status: 3
+tags: []
+user_id: Joanna

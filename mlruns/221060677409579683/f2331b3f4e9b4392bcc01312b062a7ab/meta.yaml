@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/f2331b3f4e9b4392bcc01312b062a7ab/artifacts
+end_time: 1688185231253
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: f2331b3f4e9b4392bcc01312b062a7ab
+run_name: salty-donkey-182
+run_uuid: f2331b3f4e9b4392bcc01312b062a7ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185221788
+status: 3
+tags: []
+user_id: Joanna

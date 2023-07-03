@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/c5d73649a05c4d0b81a04302b72b2485/artifacts
+end_time: 1687953900332
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: c5d73649a05c4d0b81a04302b72b2485
+run_name: crawling-dog-449
+run_uuid: c5d73649a05c4d0b81a04302b72b2485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687953892465
+status: 3
+tags: []
+user_id: Joanna

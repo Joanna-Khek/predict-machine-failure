@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/cadf7c895c784a96b675bd76234762c9/artifacts
+deleted_time: 1687944313932
+end_time: 1687943738378
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: cadf7c895c784a96b675bd76234762c9
+run_name: zealous-lamb-163
+run_uuid: cadf7c895c784a96b675bd76234762c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687943727602
+status: 3
+tags: []
+user_id: Joanna

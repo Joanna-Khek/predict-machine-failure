@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/73ad27b7a83c448f8ecde53e1be5f3d7/artifacts
+end_time: 1687952021671
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 73ad27b7a83c448f8ecde53e1be5f3d7
+run_name: polite-croc-411
+run_uuid: 73ad27b7a83c448f8ecde53e1be5f3d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687952006213
+status: 3
+tags: []
+user_id: Joanna

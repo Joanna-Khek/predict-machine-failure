@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/01a17275b71a4185bc1258cf8f787581/artifacts
+end_time: 1688198411289
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 01a17275b71a4185bc1258cf8f787581
+run_name: resilient-chimp-612
+run_uuid: 01a17275b71a4185bc1258cf8f787581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198402221
+status: 3
+tags: []
+user_id: Joanna

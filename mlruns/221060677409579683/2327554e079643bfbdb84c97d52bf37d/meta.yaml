@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/2327554e079643bfbdb84c97d52bf37d/artifacts
+end_time: 1687954052181
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 2327554e079643bfbdb84c97d52bf37d
+run_name: gentle-elk-967
+run_uuid: 2327554e079643bfbdb84c97d52bf37d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687954036447
+status: 3
+tags: []
+user_id: Joanna

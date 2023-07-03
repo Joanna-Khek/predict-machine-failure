@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/8272d82a8d824b5fba30f6d85be157a5/artifacts
+end_time: 1688184414823
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 8272d82a8d824b5fba30f6d85be157a5
+run_name: respected-stoat-498
+run_uuid: 8272d82a8d824b5fba30f6d85be157a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688184407439
+status: 3
+tags: []
+user_id: Joanna

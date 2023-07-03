@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/7fd038525b3743708cca12b799935724/artifacts
+deleted_time: 1687934645247
+end_time: 1687934613940
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 7fd038525b3743708cca12b799935724
+run_name: intrigued-hen-260
+run_uuid: 7fd038525b3743708cca12b799935724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934535991
+status: 3
+tags: []
+user_id: Joanna

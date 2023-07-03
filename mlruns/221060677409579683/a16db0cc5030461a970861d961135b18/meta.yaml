@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/a16db0cc5030461a970861d961135b18/artifacts
+end_time: 1687959150680
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: a16db0cc5030461a970861d961135b18
+run_name: placid-duck-45
+run_uuid: a16db0cc5030461a970861d961135b18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959141404
+status: 3
+tags: []
+user_id: Joanna

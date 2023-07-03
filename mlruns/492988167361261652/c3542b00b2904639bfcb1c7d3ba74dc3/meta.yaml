@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/c3542b00b2904639bfcb1c7d3ba74dc3/artifacts
+end_time: 1688199007897
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: c3542b00b2904639bfcb1c7d3ba74dc3
+run_name: gentle-swan-929
+run_uuid: c3542b00b2904639bfcb1c7d3ba74dc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198998742
+status: 3
+tags: []
+user_id: Joanna

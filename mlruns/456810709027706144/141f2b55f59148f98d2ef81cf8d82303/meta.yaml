@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/141f2b55f59148f98d2ef81cf8d82303/artifacts
+end_time: 1688197900715
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 141f2b55f59148f98d2ef81cf8d82303
+run_name: righteous-shad-825
+run_uuid: 141f2b55f59148f98d2ef81cf8d82303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688197882107
+status: 3
+tags: []
+user_id: Joanna

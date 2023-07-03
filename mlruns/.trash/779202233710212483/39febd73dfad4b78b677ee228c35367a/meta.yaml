@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/39febd73dfad4b78b677ee228c35367a/artifacts
+deleted_time: 1687941389148
+end_time: 1687935073690
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 39febd73dfad4b78b677ee228c35367a
+run_name: fun-moose-790
+run_uuid: 39febd73dfad4b78b677ee228c35367a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935060673
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/f5137436626e45db9268e58afe1b7076/artifacts
+end_time: 1688189262789
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: f5137436626e45db9268e58afe1b7076
+run_name: thoughtful-swan-169
+run_uuid: f5137436626e45db9268e58afe1b7076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688189227036
+status: 3
+tags: []
+user_id: Joanna

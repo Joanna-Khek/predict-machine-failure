@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/7e1991a4914c43c6857dc165a7b74959/artifacts
+end_time: 1688197737237
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 7e1991a4914c43c6857dc165a7b74959
+run_name: orderly-kite-618
+run_uuid: 7e1991a4914c43c6857dc165a7b74959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688197715353
+status: 3
+tags: []
+user_id: Joanna

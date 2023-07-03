@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/1ba8f0536d3847daa2034c96f2f16cca/artifacts
+end_time: 1687955147899
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 1ba8f0536d3847daa2034c96f2f16cca
+run_name: adorable-bee-734
+run_uuid: 1ba8f0536d3847daa2034c96f2f16cca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687955141786
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/7f47afebf9dd47aca9f3f1fc8f2ae8f9/artifacts
+end_time: 1688186594503
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 7f47afebf9dd47aca9f3f1fc8f2ae8f9
+run_name: stylish-turtle-611
+run_uuid: 7f47afebf9dd47aca9f3f1fc8f2ae8f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688186572560
+status: 3
+tags: []
+user_id: Joanna

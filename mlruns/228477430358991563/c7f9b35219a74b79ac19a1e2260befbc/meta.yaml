@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/c7f9b35219a74b79ac19a1e2260befbc/artifacts
+end_time: 1688191071342
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: c7f9b35219a74b79ac19a1e2260befbc
+run_name: rumbling-snipe-139
+run_uuid: c7f9b35219a74b79ac19a1e2260befbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688190952423
+status: 3
+tags: []
+user_id: Joanna

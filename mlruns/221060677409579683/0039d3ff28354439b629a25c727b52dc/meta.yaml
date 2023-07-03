@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/0039d3ff28354439b629a25c727b52dc/artifacts
+end_time: 1688198517104
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 0039d3ff28354439b629a25c727b52dc
+run_name: magnificent-bear-690
+run_uuid: 0039d3ff28354439b629a25c727b52dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198507006
+status: 3
+tags: []
+user_id: Joanna

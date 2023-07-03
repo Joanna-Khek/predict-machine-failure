@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/89c5c4d30a04499cb37d9d69656fb676/artifacts
+deleted_time: 1687948532539
+end_time: 1687947718676
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: 89c5c4d30a04499cb37d9d69656fb676
+run_name: upbeat-rat-16
+run_uuid: 89c5c4d30a04499cb37d9d69656fb676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687947701148
+status: 3
+tags: []
+user_id: Joanna

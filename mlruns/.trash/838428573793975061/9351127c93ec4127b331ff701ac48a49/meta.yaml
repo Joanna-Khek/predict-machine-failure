@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/9351127c93ec4127b331ff701ac48a49/artifacts
+deleted_time: 1687941387286
+end_time: 1687940662649
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: 9351127c93ec4127b331ff701ac48a49
+run_name: worried-fawn-494
+run_uuid: 9351127c93ec4127b331ff701ac48a49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940625774
+status: 3
+tags: []
+user_id: Joanna

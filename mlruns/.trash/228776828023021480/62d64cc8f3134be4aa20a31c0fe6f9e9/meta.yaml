@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/62d64cc8f3134be4aa20a31c0fe6f9e9/artifacts
+deleted_time: 1687948532539
+end_time: 1687948129237
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: 62d64cc8f3134be4aa20a31c0fe6f9e9
+run_name: defiant-skunk-552
+run_uuid: 62d64cc8f3134be4aa20a31c0fe6f9e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687948060555
+status: 3
+tags: []
+user_id: Joanna

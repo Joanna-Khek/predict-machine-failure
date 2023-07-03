@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/1fe1853bc6b84b92af2270d1bc184be6/artifacts
+end_time: 1687951168790
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 1fe1853bc6b84b92af2270d1bc184be6
+run_name: nimble-crab-465
+run_uuid: 1fe1853bc6b84b92af2270d1bc184be6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687951120661
+status: 3
+tags: []
+user_id: Joanna

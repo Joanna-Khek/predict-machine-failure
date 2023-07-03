@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/efba14162a964a15b806cf1e699fb70e/artifacts
+deleted_time: 1687941387286
+end_time: 1687940601642
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: efba14162a964a15b806cf1e699fb70e
+run_name: wise-kit-238
+run_uuid: efba14162a964a15b806cf1e699fb70e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940581583
+status: 3
+tags: []
+user_id: Joanna

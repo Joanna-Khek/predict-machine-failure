@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/65907a354b9d42649dbe0e3135a0d130/artifacts
+end_time: 1688186550453
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 65907a354b9d42649dbe0e3135a0d130
+run_name: salty-mouse-929
+run_uuid: 65907a354b9d42649dbe0e3135a0d130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688186470932
+status: 3
+tags: []
+user_id: Joanna

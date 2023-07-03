@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/7b84a9186b6846aab67cdb3e2b6dda14/artifacts
+end_time: 1688193307310
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 7b84a9186b6846aab67cdb3e2b6dda14
+run_name: intelligent-elk-228
+run_uuid: 7b84a9186b6846aab67cdb3e2b6dda14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688193277609
+status: 3
+tags: []
+user_id: Joanna

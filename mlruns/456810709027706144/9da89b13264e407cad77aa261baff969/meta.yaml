@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/9da89b13264e407cad77aa261baff969/artifacts
+end_time: 1688196612615
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 9da89b13264e407cad77aa261baff969
+run_name: bouncy-hound-132
+run_uuid: 9da89b13264e407cad77aa261baff969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196571917
+status: 3
+tags: []
+user_id: Joanna

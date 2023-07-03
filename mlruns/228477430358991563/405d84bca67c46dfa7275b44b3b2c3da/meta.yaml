@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/405d84bca67c46dfa7275b44b3b2c3da/artifacts
+end_time: 1687946115773
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 405d84bca67c46dfa7275b44b3b2c3da
+run_name: big-mink-622
+run_uuid: 405d84bca67c46dfa7275b44b3b2c3da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687946071564
+status: 3
+tags: []
+user_id: Joanna

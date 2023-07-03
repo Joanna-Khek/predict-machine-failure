@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/d3fab01663d845fc9d4b27dc2959b517/artifacts
+end_time: 1687957705225
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: d3fab01663d845fc9d4b27dc2959b517
+run_name: victorious-conch-886
+run_uuid: d3fab01663d845fc9d4b27dc2959b517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687957698708
+status: 3
+tags: []
+user_id: Joanna

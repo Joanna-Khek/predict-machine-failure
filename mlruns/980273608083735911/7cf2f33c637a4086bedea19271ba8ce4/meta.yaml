@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/7cf2f33c637a4086bedea19271ba8ce4/artifacts
+end_time: 1688196315406
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 7cf2f33c637a4086bedea19271ba8ce4
+run_name: painted-panda-927
+run_uuid: 7cf2f33c637a4086bedea19271ba8ce4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196305341
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/c667e6638bd6473997d5921e76cf181a/artifacts
+end_time: 1688197930369
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: c667e6638bd6473997d5921e76cf181a
+run_name: stately-wren-106
+run_uuid: c667e6638bd6473997d5921e76cf181a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688197900729
+status: 3
+tags: []
+user_id: Joanna

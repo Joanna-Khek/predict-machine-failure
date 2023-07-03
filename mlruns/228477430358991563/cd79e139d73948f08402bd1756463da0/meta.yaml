@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/cd79e139d73948f08402bd1756463da0/artifacts
+end_time: 1688189634549
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: cd79e139d73948f08402bd1756463da0
+run_name: lyrical-mole-895
+run_uuid: cd79e139d73948f08402bd1756463da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688189592336
+status: 3
+tags: []
+user_id: Joanna

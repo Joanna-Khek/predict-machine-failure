@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/5b79ba520b2c4033b221f718986559d5/artifacts
+end_time: 1687953508801
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 5b79ba520b2c4033b221f718986559d5
+run_name: aged-deer-195
+run_uuid: 5b79ba520b2c4033b221f718986559d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687953484113
+status: 3
+tags: []
+user_id: Joanna

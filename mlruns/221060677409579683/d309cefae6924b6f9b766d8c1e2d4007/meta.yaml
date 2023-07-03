@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/d309cefae6924b6f9b766d8c1e2d4007/artifacts
+end_time: 1688185206162
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: d309cefae6924b6f9b766d8c1e2d4007
+run_name: clumsy-goat-750
+run_uuid: d309cefae6924b6f9b766d8c1e2d4007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185192562
+status: 3
+tags: []
+user_id: Joanna

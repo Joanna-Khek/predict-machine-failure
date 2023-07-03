@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/a035ab05f07844f0b344d4f3a65e7f03/artifacts
+end_time: 1688198874116
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: a035ab05f07844f0b344d4f3a65e7f03
+run_name: bald-hare-576
+run_uuid: a035ab05f07844f0b344d4f3a65e7f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198865761
+status: 3
+tags: []
+user_id: Joanna

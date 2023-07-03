@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/7aff6906a8224e1785721bc60753e749/artifacts
+end_time: 1688197783951
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 7aff6906a8224e1785721bc60753e749
+run_name: stylish-dog-862
+run_uuid: 7aff6906a8224e1785721bc60753e749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688197762503
+status: 3
+tags: []
+user_id: Joanna

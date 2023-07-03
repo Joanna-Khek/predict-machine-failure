@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/8e25bb9d0bb04bca8c0363a15ac1b23c/artifacts
+end_time: 1687953290088
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 8e25bb9d0bb04bca8c0363a15ac1b23c
+run_name: auspicious-bass-324
+run_uuid: 8e25bb9d0bb04bca8c0363a15ac1b23c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687953256057
+status: 3
+tags: []
+user_id: Joanna

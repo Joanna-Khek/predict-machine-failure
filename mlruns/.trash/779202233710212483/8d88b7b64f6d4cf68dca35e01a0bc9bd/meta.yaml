@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/8d88b7b64f6d4cf68dca35e01a0bc9bd/artifacts
+deleted_time: 1687941389148
+end_time: 1687935304181
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 8d88b7b64f6d4cf68dca35e01a0bc9bd
+run_name: thoughtful-shad-302
+run_uuid: 8d88b7b64f6d4cf68dca35e01a0bc9bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935287899
+status: 3
+tags: []
+user_id: Joanna

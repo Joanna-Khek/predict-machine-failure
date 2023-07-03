@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/1293cbdb54504593b82a443a944c0edc/artifacts
+end_time: 1688184374917
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 1293cbdb54504593b82a443a944c0edc
+run_name: funny-rat-155
+run_uuid: 1293cbdb54504593b82a443a944c0edc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688184367136
+status: 3
+tags: []
+user_id: Joanna

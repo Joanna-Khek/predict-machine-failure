@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/b2714e03a9304df19017a8f95596300e/artifacts
+end_time: 1687959217129
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: b2714e03a9304df19017a8f95596300e
+run_name: nosy-roo-508
+run_uuid: b2714e03a9304df19017a8f95596300e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959208018
+status: 3
+tags: []
+user_id: Joanna

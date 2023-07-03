@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/02303cb18bdb4d0f8cc3dad6f6eda25b/artifacts
+end_time: 1687953825105
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 02303cb18bdb4d0f8cc3dad6f6eda25b
+run_name: classy-penguin-80
+run_uuid: 02303cb18bdb4d0f8cc3dad6f6eda25b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687953811798
+status: 3
+tags: []
+user_id: Joanna

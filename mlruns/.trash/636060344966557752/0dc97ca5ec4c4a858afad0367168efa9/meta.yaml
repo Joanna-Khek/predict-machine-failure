@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/0dc97ca5ec4c4a858afad0367168efa9/artifacts
+deleted_time: 1687943431987
+end_time: 1687942948849
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: 0dc97ca5ec4c4a858afad0367168efa9
+run_name: debonair-hen-497
+run_uuid: 0dc97ca5ec4c4a858afad0367168efa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687942897453
+status: 4
+tags: []
+user_id: Joanna

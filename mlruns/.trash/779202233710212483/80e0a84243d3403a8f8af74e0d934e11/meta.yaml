@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/80e0a84243d3403a8f8af74e0d934e11/artifacts
+deleted_time: 1687934547713
+end_time: 1687934476684
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 80e0a84243d3403a8f8af74e0d934e11
+run_name: skillful-cod-734
+run_uuid: 80e0a84243d3403a8f8af74e0d934e11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934459241
+status: 3
+tags: []
+user_id: Joanna

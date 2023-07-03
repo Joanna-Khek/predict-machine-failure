@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/68f25dc2606b45258e67be2ebd765ec0/artifacts
+end_time: 1687954172730
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 68f25dc2606b45258e67be2ebd765ec0
+run_name: receptive-dove-823
+run_uuid: 68f25dc2606b45258e67be2ebd765ec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687954154325
+status: 3
+tags: []
+user_id: Joanna

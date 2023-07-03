@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/73fb30a6bd85404aba03cce2712cd0c0/artifacts
+end_time: 1687953648210
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 73fb30a6bd85404aba03cce2712cd0c0
+run_name: fearless-asp-926
+run_uuid: 73fb30a6bd85404aba03cce2712cd0c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687953615284
+status: 3
+tags: []
+user_id: Joanna

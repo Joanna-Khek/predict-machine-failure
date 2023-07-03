@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/bd615bf64b964e25b57d346e5fe32cfa/artifacts
+end_time: 1687949586298
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: bd615bf64b964e25b57d346e5fe32cfa
+run_name: zealous-zebra-542
+run_uuid: bd615bf64b964e25b57d346e5fe32cfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687949556376
+status: 3
+tags: []
+user_id: Joanna

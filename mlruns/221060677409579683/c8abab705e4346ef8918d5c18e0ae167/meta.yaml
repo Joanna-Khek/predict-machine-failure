@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/c8abab705e4346ef8918d5c18e0ae167/artifacts
+end_time: 1688185663884
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: c8abab705e4346ef8918d5c18e0ae167
+run_name: silent-squid-567
+run_uuid: c8abab705e4346ef8918d5c18e0ae167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185650459
+status: 3
+tags: []
+user_id: Joanna

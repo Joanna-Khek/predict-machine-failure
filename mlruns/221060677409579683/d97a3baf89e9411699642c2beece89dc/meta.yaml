@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/d97a3baf89e9411699642c2beece89dc/artifacts
+end_time: 1688185386422
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: d97a3baf89e9411699642c2beece89dc
+run_name: powerful-shark-196
+run_uuid: d97a3baf89e9411699642c2beece89dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185372563
+status: 3
+tags: []
+user_id: Joanna

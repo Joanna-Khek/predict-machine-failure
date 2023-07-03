@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/8d5314417d4e46b0a40ae1380401a419/artifacts
+end_time: 1687954372802
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 8d5314417d4e46b0a40ae1380401a419
+run_name: zealous-ram-994
+run_uuid: 8d5314417d4e46b0a40ae1380401a419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687954354863
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/12a399eed29045bf94703ec7ac0393c5/artifacts
+end_time: 1688195394501
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 12a399eed29045bf94703ec7ac0393c5
+run_name: lyrical-ox-255
+run_uuid: 12a399eed29045bf94703ec7ac0393c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688195312649
+status: 3
+tags: []
+user_id: Joanna

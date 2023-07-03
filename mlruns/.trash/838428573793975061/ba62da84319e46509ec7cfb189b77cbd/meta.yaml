@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/ba62da84319e46509ec7cfb189b77cbd/artifacts
+deleted_time: 1687941387286
+end_time: 1687940528054
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: ba62da84319e46509ec7cfb189b77cbd
+run_name: glamorous-gnu-77
+run_uuid: ba62da84319e46509ec7cfb189b77cbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940511142
+status: 3
+tags: []
+user_id: Joanna

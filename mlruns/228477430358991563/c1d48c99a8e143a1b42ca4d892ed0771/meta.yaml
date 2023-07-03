@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/c1d48c99a8e143a1b42ca4d892ed0771/artifacts
+end_time: 1688190479390
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: c1d48c99a8e143a1b42ca4d892ed0771
+run_name: upbeat-quail-406
+run_uuid: c1d48c99a8e143a1b42ca4d892ed0771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688190408075
+status: 3
+tags: []
+user_id: Joanna

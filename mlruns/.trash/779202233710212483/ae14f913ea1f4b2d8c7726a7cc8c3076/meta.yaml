@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/ae14f913ea1f4b2d8c7726a7cc8c3076/artifacts
+deleted_time: 1687941389148
+end_time: 1687935335864
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: ae14f913ea1f4b2d8c7726a7cc8c3076
+run_name: angry-goose-820
+run_uuid: ae14f913ea1f4b2d8c7726a7cc8c3076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935323751
+status: 3
+tags: []
+user_id: Joanna

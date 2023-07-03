@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/c71c3555d8ef428f9152b77b5c813c5e/artifacts
+end_time: 1687954354838
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: c71c3555d8ef428f9152b77b5c813c5e
+run_name: unruly-carp-680
+run_uuid: c71c3555d8ef428f9152b77b5c813c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687954342781
+status: 3
+tags: []
+user_id: Joanna

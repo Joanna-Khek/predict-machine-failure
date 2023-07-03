@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/4a8875371ad74aa386349a2ff8c072b3/artifacts
+deleted_time: 1687941389148
+end_time: 1687935226910
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 4a8875371ad74aa386349a2ff8c072b3
+run_name: lyrical-panda-648
+run_uuid: 4a8875371ad74aa386349a2ff8c072b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935214585
+status: 3
+tags: []
+user_id: Joanna

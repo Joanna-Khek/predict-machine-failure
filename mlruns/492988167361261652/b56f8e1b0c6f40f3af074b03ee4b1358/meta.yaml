@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/b56f8e1b0c6f40f3af074b03ee4b1358/artifacts
+end_time: 1687959918208
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: b56f8e1b0c6f40f3af074b03ee4b1358
+run_name: honorable-crane-414
+run_uuid: b56f8e1b0c6f40f3af074b03ee4b1358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959908806
+status: 3
+tags: []
+user_id: Joanna

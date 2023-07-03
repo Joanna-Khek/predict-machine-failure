@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/d01edd94abff41709860438ff8eb7825/artifacts
+deleted_time: 1687948532539
+end_time: 1687947939535
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: d01edd94abff41709860438ff8eb7825
+run_name: mysterious-gnu-502
+run_uuid: d01edd94abff41709860438ff8eb7825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687947917761
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/8a545f2d3164413887794ee868764467/artifacts
+end_time: 1688190191022
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 8a545f2d3164413887794ee868764467
+run_name: stately-ant-759
+run_uuid: 8a545f2d3164413887794ee868764467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688190075474
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/b7337beb1db24a0d90c9abd51dc92580/artifacts
+end_time: 1688195628801
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: b7337beb1db24a0d90c9abd51dc92580
+run_name: righteous-deer-189
+run_uuid: b7337beb1db24a0d90c9abd51dc92580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688195596745
+status: 3
+tags: []
+user_id: Joanna

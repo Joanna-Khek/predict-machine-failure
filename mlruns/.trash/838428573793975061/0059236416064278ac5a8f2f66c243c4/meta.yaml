@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/0059236416064278ac5a8f2f66c243c4/artifacts
+deleted_time: 1687941387286
+end_time: 1687940732043
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: 0059236416064278ac5a8f2f66c243c4
+run_name: funny-lamb-801
+run_uuid: 0059236416064278ac5a8f2f66c243c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940720633
+status: 3
+tags: []
+user_id: Joanna

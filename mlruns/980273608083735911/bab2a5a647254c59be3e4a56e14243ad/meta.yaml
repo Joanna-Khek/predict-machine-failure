@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/bab2a5a647254c59be3e4a56e14243ad/artifacts
+end_time: 1687948904069
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: bab2a5a647254c59be3e4a56e14243ad
+run_name: sedate-roo-621
+run_uuid: bab2a5a647254c59be3e4a56e14243ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687948873844
+status: 3
+tags: []
+user_id: Joanna

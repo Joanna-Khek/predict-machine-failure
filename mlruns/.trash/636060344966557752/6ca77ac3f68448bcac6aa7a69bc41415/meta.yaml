@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/6ca77ac3f68448bcac6aa7a69bc41415/artifacts
+deleted_time: 1687944313932
+end_time: 1687943800655
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: 6ca77ac3f68448bcac6aa7a69bc41415
+run_name: treasured-cow-41
+run_uuid: 6ca77ac3f68448bcac6aa7a69bc41415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687943792714
+status: 3
+tags: []
+user_id: Joanna

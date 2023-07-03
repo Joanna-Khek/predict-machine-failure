@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/f566c7c798824402b95b3ad8aec00491/artifacts
+end_time: 1687952190382
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: f566c7c798824402b95b3ad8aec00491
+run_name: industrious-deer-417
+run_uuid: f566c7c798824402b95b3ad8aec00491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687952133151
+status: 3
+tags: []
+user_id: Joanna

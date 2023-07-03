@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/1b26dc53baea452c9cd634bd8e9f87df/artifacts
+end_time: 1687945221748
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 1b26dc53baea452c9cd634bd8e9f87df
+run_name: glamorous-conch-797
+run_uuid: 1b26dc53baea452c9cd634bd8e9f87df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687945164263
+status: 3
+tags: []
+user_id: Joanna

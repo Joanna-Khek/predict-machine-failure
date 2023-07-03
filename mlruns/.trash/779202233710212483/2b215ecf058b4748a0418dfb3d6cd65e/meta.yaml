@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/2b215ecf058b4748a0418dfb3d6cd65e/artifacts
+deleted_time: 1687941389148
+end_time: 1687935239277
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 2b215ecf058b4748a0418dfb3d6cd65e
+run_name: puzzled-mule-459
+run_uuid: 2b215ecf058b4748a0418dfb3d6cd65e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935226939
+status: 3
+tags: []
+user_id: Joanna

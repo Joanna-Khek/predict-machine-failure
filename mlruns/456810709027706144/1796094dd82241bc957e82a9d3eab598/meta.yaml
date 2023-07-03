@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/1796094dd82241bc957e82a9d3eab598/artifacts
+end_time: 1687952802628
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 1796094dd82241bc957e82a9d3eab598
+run_name: treasured-flea-658
+run_uuid: 1796094dd82241bc957e82a9d3eab598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687952776204
+status: 3
+tags: []
+user_id: Joanna

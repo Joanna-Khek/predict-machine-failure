@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/cb9477da25454d4b906e74737f38a58d/artifacts
+end_time: 1687959935559
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: cb9477da25454d4b906e74737f38a58d
+run_name: capricious-bee-883
+run_uuid: cb9477da25454d4b906e74737f38a58d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959928053
+status: 3
+tags: []
+user_id: Joanna

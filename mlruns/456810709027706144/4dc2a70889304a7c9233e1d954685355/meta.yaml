@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/4dc2a70889304a7c9233e1d954685355/artifacts
+end_time: 1688197059119
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 4dc2a70889304a7c9233e1d954685355
+run_name: traveling-shrike-386
+run_uuid: 4dc2a70889304a7c9233e1d954685355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688197016472
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/9f3dfaaa6ecf4cc184108db747f68d9c/artifacts
+end_time: 1687948602019
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 9f3dfaaa6ecf4cc184108db747f68d9c
+run_name: sincere-foal-23
+run_uuid: 9f3dfaaa6ecf4cc184108db747f68d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687948554414
+status: 3
+tags: []
+user_id: Joanna

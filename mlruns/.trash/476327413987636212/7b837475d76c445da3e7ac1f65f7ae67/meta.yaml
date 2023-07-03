@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/476327413987636212/7b837475d76c445da3e7ac1f65f7ae67/artifacts
+deleted_time: 1687933979616
+end_time: 1687933855882
+entry_point_name: ''
+experiment_id: '476327413987636212'
+lifecycle_stage: deleted
+run_id: 7b837475d76c445da3e7ac1f65f7ae67
+run_name: monumental-colt-118
+run_uuid: 7b837475d76c445da3e7ac1f65f7ae67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687933844739
+status: 4
+tags: []
+user_id: Joanna

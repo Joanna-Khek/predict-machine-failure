@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/5e9e1b7103d7491a9b626d01ad7deb2c/artifacts
+end_time: 1687957493834
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 5e9e1b7103d7491a9b626d01ad7deb2c
+run_name: suave-cow-67
+run_uuid: 5e9e1b7103d7491a9b626d01ad7deb2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687957487760
+status: 3
+tags: []
+user_id: Joanna

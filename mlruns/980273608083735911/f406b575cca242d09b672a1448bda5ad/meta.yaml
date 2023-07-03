@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/f406b575cca242d09b672a1448bda5ad/artifacts
+end_time: 1688196063406
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: f406b575cca242d09b672a1448bda5ad
+run_name: ambitious-hare-842
+run_uuid: f406b575cca242d09b672a1448bda5ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196056468
+status: 3
+tags: []
+user_id: Joanna

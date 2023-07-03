@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/48896e20644449eabb9f699fe549b8d3/artifacts
+end_time: 1687945013082
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 48896e20644449eabb9f699fe549b8d3
+run_name: stylish-steed-594
+run_uuid: 48896e20644449eabb9f699fe549b8d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687944958501
+status: 3
+tags: []
+user_id: Joanna

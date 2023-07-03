@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/c4ab3b12ba7547e5b7aadf7378a78b01/artifacts
+end_time: 1687959547015
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: c4ab3b12ba7547e5b7aadf7378a78b01
+run_name: clean-smelt-568
+run_uuid: c4ab3b12ba7547e5b7aadf7378a78b01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959540046
+status: 3
+tags: []
+user_id: Joanna

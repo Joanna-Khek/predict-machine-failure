@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/b44d6de9d19d4b758d05d0924082dee6/artifacts
+deleted_time: 1687941387286
+end_time: 1687940414835
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: b44d6de9d19d4b758d05d0924082dee6
+run_name: unleashed-duck-304
+run_uuid: b44d6de9d19d4b758d05d0924082dee6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940401544
+status: 3
+tags: []
+user_id: Joanna

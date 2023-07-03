@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/a54a9dea8e19477fbb56f408739598f9/artifacts
+end_time: 1688185279311
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: a54a9dea8e19477fbb56f408739598f9
+run_name: grandiose-skunk-890
+run_uuid: a54a9dea8e19477fbb56f408739598f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185269806
+status: 3
+tags: []
+user_id: Joanna

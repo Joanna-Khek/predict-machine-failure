@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/7da791a627484432b0a42d6cb45e5797/artifacts
+end_time: 1687946543357
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 7da791a627484432b0a42d6cb45e5797
+run_name: illustrious-kit-718
+run_uuid: 7da791a627484432b0a42d6cb45e5797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687946486148
+status: 3
+tags: []
+user_id: Joanna

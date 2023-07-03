@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/c24ab8f066ba44d19e709ff1f54ba826/artifacts
+end_time: 1688198839459
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: c24ab8f066ba44d19e709ff1f54ba826
+run_name: wistful-conch-385
+run_uuid: c24ab8f066ba44d19e709ff1f54ba826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198828230
+status: 3
+tags: []
+user_id: Joanna

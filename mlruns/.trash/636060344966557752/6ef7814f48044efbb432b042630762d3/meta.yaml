@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/6ef7814f48044efbb432b042630762d3/artifacts
+deleted_time: 1687944313932
+end_time: 1687943856400
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: 6ef7814f48044efbb432b042630762d3
+run_name: beautiful-croc-326
+run_uuid: 6ef7814f48044efbb432b042630762d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687943841162
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/2fbefb6df2f54768a014470741b51346/artifacts
+end_time: 1688195135747
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 2fbefb6df2f54768a014470741b51346
+run_name: efficient-bee-55
+run_uuid: 2fbefb6df2f54768a014470741b51346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688195046372
+status: 3
+tags: []
+user_id: Joanna

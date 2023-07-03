@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/5903124f71f04f01a89765f741ff4553/artifacts
+end_time: 1687949476282
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 5903124f71f04f01a89765f741ff4553
+run_name: hilarious-calf-799
+run_uuid: 5903124f71f04f01a89765f741ff4553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687949462036
+status: 3
+tags: []
+user_id: Joanna

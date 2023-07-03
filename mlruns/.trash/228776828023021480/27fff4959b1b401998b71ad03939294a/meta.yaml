@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/27fff4959b1b401998b71ad03939294a/artifacts
+deleted_time: 1687948532539
+end_time: 1687947798035
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: 27fff4959b1b401998b71ad03939294a
+run_name: funny-fly-315
+run_uuid: 27fff4959b1b401998b71ad03939294a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687947782628
+status: 3
+tags: []
+user_id: Joanna

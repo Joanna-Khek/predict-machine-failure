@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/f91243ba1f3f4a72a78120b67942ea9a/artifacts
+deleted_time: 1687948532539
+end_time: 1687947611335
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: f91243ba1f3f4a72a78120b67942ea9a
+run_name: colorful-snake-355
+run_uuid: f91243ba1f3f4a72a78120b67942ea9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687947576255
+status: 3
+tags: []
+user_id: Joanna

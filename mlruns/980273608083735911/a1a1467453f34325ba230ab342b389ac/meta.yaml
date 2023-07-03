@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/a1a1467453f34325ba230ab342b389ac/artifacts
+end_time: 1687951995043
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: a1a1467453f34325ba230ab342b389ac
+run_name: fortunate-mole-498
+run_uuid: a1a1467453f34325ba230ab342b389ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687951968041
+status: 3
+tags: []
+user_id: Joanna

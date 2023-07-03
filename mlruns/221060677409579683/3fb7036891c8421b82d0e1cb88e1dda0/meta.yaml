@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/3fb7036891c8421b82d0e1cb88e1dda0/artifacts
+end_time: 1687959461366
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 3fb7036891c8421b82d0e1cb88e1dda0
+run_name: honorable-dove-184
+run_uuid: 3fb7036891c8421b82d0e1cb88e1dda0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959449195
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/476327413987636212/db3bfa642c4e4dcb92e26cce9d24aa00/artifacts
+deleted_time: 1687940114589
+end_time: 1687934035098
+entry_point_name: ''
+experiment_id: '476327413987636212'
+lifecycle_stage: deleted
+run_id: db3bfa642c4e4dcb92e26cce9d24aa00
+run_name: adaptable-shrike-228
+run_uuid: db3bfa642c4e4dcb92e26cce9d24aa00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934014819
+status: 4
+tags: []
+user_id: Joanna

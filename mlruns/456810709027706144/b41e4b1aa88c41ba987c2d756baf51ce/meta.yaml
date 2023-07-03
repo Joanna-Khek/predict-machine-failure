@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/b41e4b1aa88c41ba987c2d756baf51ce/artifacts
+end_time: 1688197820559
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: b41e4b1aa88c41ba987c2d756baf51ce
+run_name: awesome-whale-725
+run_uuid: b41e4b1aa88c41ba987c2d756baf51ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688197783965
+status: 3
+tags: []
+user_id: Joanna

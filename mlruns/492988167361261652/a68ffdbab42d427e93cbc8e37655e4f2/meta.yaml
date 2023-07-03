@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/a68ffdbab42d427e93cbc8e37655e4f2/artifacts
+end_time: 1687959779378
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: a68ffdbab42d427e93cbc8e37655e4f2
+run_name: omniscient-wolf-252
+run_uuid: a68ffdbab42d427e93cbc8e37655e4f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959768416
+status: 3
+tags: []
+user_id: Joanna

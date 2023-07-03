@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/aea86bd95f404a4dbfc634f4d2e1f07c/artifacts
+end_time: 1688188867123
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: aea86bd95f404a4dbfc634f4d2e1f07c
+run_name: caring-gnu-408
+run_uuid: aea86bd95f404a4dbfc634f4d2e1f07c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688188773973
+status: 3
+tags: []
+user_id: Joanna

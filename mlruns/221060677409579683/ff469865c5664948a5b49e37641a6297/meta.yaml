@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/ff469865c5664948a5b49e37641a6297/artifacts
+end_time: 1688198578365
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: ff469865c5664948a5b49e37641a6297
+run_name: redolent-swan-27
+run_uuid: ff469865c5664948a5b49e37641a6297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198570626
+status: 3
+tags: []
+user_id: Joanna

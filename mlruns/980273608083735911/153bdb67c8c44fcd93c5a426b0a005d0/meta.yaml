@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/153bdb67c8c44fcd93c5a426b0a005d0/artifacts
+end_time: 1687951698637
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 153bdb67c8c44fcd93c5a426b0a005d0
+run_name: worried-goose-145
+run_uuid: 153bdb67c8c44fcd93c5a426b0a005d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687951688290
+status: 3
+tags: []
+user_id: Joanna

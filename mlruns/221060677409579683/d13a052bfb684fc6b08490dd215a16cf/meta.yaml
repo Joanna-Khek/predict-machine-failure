@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/d13a052bfb684fc6b08490dd215a16cf/artifacts
+end_time: 1688351329120
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: d13a052bfb684fc6b08490dd215a16cf
+run_name: adaptable-sponge-98
+run_uuid: d13a052bfb684fc6b08490dd215a16cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688351303404
+status: 3
+tags: []
+user_id: Joanna

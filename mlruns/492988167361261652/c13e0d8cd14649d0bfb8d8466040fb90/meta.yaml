@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/c13e0d8cd14649d0bfb8d8466040fb90/artifacts
+end_time: 1688199148882
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: c13e0d8cd14649d0bfb8d8466040fb90
+run_name: fortunate-turtle-310
+run_uuid: c13e0d8cd14649d0bfb8d8466040fb90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688199137831
+status: 3
+tags: []
+user_id: Joanna

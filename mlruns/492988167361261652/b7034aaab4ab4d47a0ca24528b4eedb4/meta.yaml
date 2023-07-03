@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/b7034aaab4ab4d47a0ca24528b4eedb4/artifacts
+end_time: 1688199059100
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: b7034aaab4ab4d47a0ca24528b4eedb4
+run_name: big-eel-871
+run_uuid: b7034aaab4ab4d47a0ca24528b4eedb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688199050205
+status: 3
+tags: []
+user_id: Joanna

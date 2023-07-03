@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/320ff3ad7fac4bdf8a5ba89b7707b337/artifacts
+end_time: 1687950565939
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 320ff3ad7fac4bdf8a5ba89b7707b337
+run_name: blushing-boar-247
+run_uuid: 320ff3ad7fac4bdf8a5ba89b7707b337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687950559268
+status: 3
+tags: []
+user_id: Joanna

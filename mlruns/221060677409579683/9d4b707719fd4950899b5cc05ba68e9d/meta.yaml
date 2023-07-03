@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/9d4b707719fd4950899b5cc05ba68e9d/artifacts
+end_time: 1687954404820
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 9d4b707719fd4950899b5cc05ba68e9d
+run_name: abundant-fox-81
+run_uuid: 9d4b707719fd4950899b5cc05ba68e9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687954391392
+status: 3
+tags: []
+user_id: Joanna

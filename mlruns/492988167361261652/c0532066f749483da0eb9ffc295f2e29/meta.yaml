@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/c0532066f749483da0eb9ffc295f2e29/artifacts
+end_time: 1688184501335
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: c0532066f749483da0eb9ffc295f2e29
+run_name: fortunate-sheep-94
+run_uuid: c0532066f749483da0eb9ffc295f2e29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688184491204
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/251e50617e7a41e0a5b09296aaac5524/artifacts
+end_time: 1688185356120
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 251e50617e7a41e0a5b09296aaac5524
+run_name: bold-bass-359
+run_uuid: 251e50617e7a41e0a5b09296aaac5524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185347919
+status: 3
+tags: []
+user_id: Joanna

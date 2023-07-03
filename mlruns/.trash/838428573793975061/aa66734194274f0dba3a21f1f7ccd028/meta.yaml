@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/aa66734194274f0dba3a21f1f7ccd028/artifacts
+deleted_time: 1687941387286
+end_time: 1687940331511
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: aa66734194274f0dba3a21f1f7ccd028
+run_name: debonair-dove-574
+run_uuid: aa66734194274f0dba3a21f1f7ccd028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940315245
+status: 3
+tags: []
+user_id: Joanna

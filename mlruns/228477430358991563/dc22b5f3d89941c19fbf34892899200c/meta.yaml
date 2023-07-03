@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/dc22b5f3d89941c19fbf34892899200c/artifacts
+end_time: 1688190952400
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: dc22b5f3d89941c19fbf34892899200c
+run_name: charming-snail-835
+run_uuid: dc22b5f3d89941c19fbf34892899200c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688190888967
+status: 3
+tags: []
+user_id: Joanna

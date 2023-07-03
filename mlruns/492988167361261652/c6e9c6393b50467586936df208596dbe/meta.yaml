@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/c6e9c6393b50467586936df208596dbe/artifacts
+end_time: 1688351887132
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: c6e9c6393b50467586936df208596dbe
+run_name: funny-shrike-981
+run_uuid: c6e9c6393b50467586936df208596dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688351875380
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/eddbf8637859443ead7e3d8164948e19/artifacts
+end_time: 1687958042284
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: eddbf8637859443ead7e3d8164948e19
+run_name: delicate-trout-310
+run_uuid: eddbf8637859443ead7e3d8164948e19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687958034246
+status: 3
+tags: []
+user_id: Joanna

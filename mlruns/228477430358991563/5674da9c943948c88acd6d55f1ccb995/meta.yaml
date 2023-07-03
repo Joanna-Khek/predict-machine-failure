@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/5674da9c943948c88acd6d55f1ccb995/artifacts
+end_time: 1688195231872
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 5674da9c943948c88acd6d55f1ccb995
+run_name: amusing-donkey-165
+run_uuid: 5674da9c943948c88acd6d55f1ccb995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688195190239
+status: 3
+tags: []
+user_id: Joanna

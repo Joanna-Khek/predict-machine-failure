@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/0ad9d247366c46ec8f2eb9c19c20cdf3/artifacts
+end_time: 1687954278543
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 0ad9d247366c46ec8f2eb9c19c20cdf3
+run_name: upbeat-panda-101
+run_uuid: 0ad9d247366c46ec8f2eb9c19c20cdf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687954262448
+status: 3
+tags: []
+user_id: Joanna

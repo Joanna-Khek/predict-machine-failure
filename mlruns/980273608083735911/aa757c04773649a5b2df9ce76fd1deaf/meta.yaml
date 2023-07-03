@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/aa757c04773649a5b2df9ce76fd1deaf/artifacts
+end_time: 1687950395066
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: aa757c04773649a5b2df9ce76fd1deaf
+run_name: incongruous-fish-421
+run_uuid: aa757c04773649a5b2df9ce76fd1deaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687950382174
+status: 3
+tags: []
+user_id: Joanna

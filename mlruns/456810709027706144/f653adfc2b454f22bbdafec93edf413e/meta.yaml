@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/f653adfc2b454f22bbdafec93edf413e/artifacts
+end_time: 1687952345132
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: f653adfc2b454f22bbdafec93edf413e
+run_name: merciful-wasp-395
+run_uuid: f653adfc2b454f22bbdafec93edf413e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687952300589
+status: 3
+tags: []
+user_id: Joanna

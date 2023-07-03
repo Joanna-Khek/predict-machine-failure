@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/d5beef212c0b494bb39036bedbcd5af4/artifacts
+deleted_time: 1687941387286
+end_time: 1687940459812
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: d5beef212c0b494bb39036bedbcd5af4
+run_name: unleashed-skunk-933
+run_uuid: d5beef212c0b494bb39036bedbcd5af4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940425185
+status: 3
+tags: []
+user_id: Joanna

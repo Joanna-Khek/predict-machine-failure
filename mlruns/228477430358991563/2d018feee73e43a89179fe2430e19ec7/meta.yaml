@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/2d018feee73e43a89179fe2430e19ec7/artifacts
+end_time: 1688193758563
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 2d018feee73e43a89179fe2430e19ec7
+run_name: bouncy-roo-516
+run_uuid: 2d018feee73e43a89179fe2430e19ec7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688193734405
+status: 3
+tags: []
+user_id: Joanna

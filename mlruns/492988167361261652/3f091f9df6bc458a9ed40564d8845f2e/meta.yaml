@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/3f091f9df6bc458a9ed40564d8845f2e/artifacts
+end_time: 1687959987136
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 3f091f9df6bc458a9ed40564d8845f2e
+run_name: luxuriant-mule-336
+run_uuid: 3f091f9df6bc458a9ed40564d8845f2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959977926
+status: 3
+tags: []
+user_id: Joanna

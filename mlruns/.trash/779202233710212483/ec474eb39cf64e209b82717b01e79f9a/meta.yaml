@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/ec474eb39cf64e209b82717b01e79f9a/artifacts
+deleted_time: 1687941389148
+end_time: 1687935011210
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: ec474eb39cf64e209b82717b01e79f9a
+run_name: sassy-horse-476
+run_uuid: ec474eb39cf64e209b82717b01e79f9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934996731
+status: 3
+tags: []
+user_id: Joanna

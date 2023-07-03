@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/d71c667b17904df08ef1016f0c40f380/artifacts
+end_time: 1688184522050
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: d71c667b17904df08ef1016f0c40f380
+run_name: debonair-cod-135
+run_uuid: d71c667b17904df08ef1016f0c40f380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688184512843
+status: 3
+tags: []
+user_id: Joanna

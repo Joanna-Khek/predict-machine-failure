@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/25c231dc5d53447e8afe96860f83c088/artifacts
+end_time: 1688196412389
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 25c231dc5d53447e8afe96860f83c088
+run_name: respected-lark-670
+run_uuid: 25c231dc5d53447e8afe96860f83c088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196399641
+status: 3
+tags: []
+user_id: Joanna

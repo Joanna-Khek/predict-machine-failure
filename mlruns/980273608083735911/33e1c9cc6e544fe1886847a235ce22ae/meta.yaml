@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/33e1c9cc6e544fe1886847a235ce22ae/artifacts
+end_time: 1687949281672
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 33e1c9cc6e544fe1886847a235ce22ae
+run_name: skillful-hog-151
+run_uuid: 33e1c9cc6e544fe1886847a235ce22ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687949267501
+status: 3
+tags: []
+user_id: Joanna

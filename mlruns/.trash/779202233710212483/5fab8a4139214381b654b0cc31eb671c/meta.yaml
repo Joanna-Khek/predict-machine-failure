@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/5fab8a4139214381b654b0cc31eb671c/artifacts
+deleted_time: 1687941389148
+end_time: 1687935270876
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 5fab8a4139214381b654b0cc31eb671c
+run_name: carefree-slug-251
+run_uuid: 5fab8a4139214381b654b0cc31eb671c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935258812
+status: 3
+tags: []
+user_id: Joanna

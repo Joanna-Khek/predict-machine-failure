@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/c3881d307c5b43ff8e11044e0f8a40b2/artifacts
+end_time: 1688195881671
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: c3881d307c5b43ff8e11044e0f8a40b2
+run_name: delicate-hound-417
+run_uuid: c3881d307c5b43ff8e11044e0f8a40b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688195839218
+status: 3
+tags: []
+user_id: Joanna

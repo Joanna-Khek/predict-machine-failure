@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/0ce1704a811d4cc08df8418b800ae11e/artifacts
+end_time: 1687953692310
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 0ce1704a811d4cc08df8418b800ae11e
+run_name: shivering-skunk-121
+run_uuid: 0ce1704a811d4cc08df8418b800ae11e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687953648223
+status: 3
+tags: []
+user_id: Joanna

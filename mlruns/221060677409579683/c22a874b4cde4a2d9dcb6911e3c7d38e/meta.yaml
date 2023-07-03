@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/c22a874b4cde4a2d9dcb6911e3c7d38e/artifacts
+end_time: 1687959342707
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: c22a874b4cde4a2d9dcb6911e3c7d38e
+run_name: valuable-ray-753
+run_uuid: c22a874b4cde4a2d9dcb6911e3c7d38e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959333212
+status: 3
+tags: []
+user_id: Joanna

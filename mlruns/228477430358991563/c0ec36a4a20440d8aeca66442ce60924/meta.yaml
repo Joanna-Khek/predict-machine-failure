@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/c0ec36a4a20440d8aeca66442ce60924/artifacts
+end_time: 1687944741742
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: c0ec36a4a20440d8aeca66442ce60924
+run_name: rogue-mare-939
+run_uuid: c0ec36a4a20440d8aeca66442ce60924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687944660136
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/7d1a98da075d4c3ca93d5ddc57134287/artifacts
+deleted_time: 1687941389148
+end_time: 1687934939135
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 7d1a98da075d4c3ca93d5ddc57134287
+run_name: burly-pug-517
+run_uuid: 7d1a98da075d4c3ca93d5ddc57134287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934919917
+status: 3
+tags: []
+user_id: Joanna

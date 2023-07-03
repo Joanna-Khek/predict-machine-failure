@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/90f7888d5f534ab791a996d07c41cd77/artifacts
+deleted_time: 1687944313932
+end_time: 1687943691438
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: 90f7888d5f534ab791a996d07c41cd77
+run_name: crawling-fly-777
+run_uuid: 90f7888d5f534ab791a996d07c41cd77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687943679934
+status: 3
+tags: []
+user_id: Joanna

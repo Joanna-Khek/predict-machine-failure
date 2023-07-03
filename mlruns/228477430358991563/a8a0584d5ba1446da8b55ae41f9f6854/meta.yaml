@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/a8a0584d5ba1446da8b55ae41f9f6854/artifacts
+end_time: 1688188723136
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: a8a0584d5ba1446da8b55ae41f9f6854
+run_name: blushing-donkey-632
+run_uuid: a8a0584d5ba1446da8b55ae41f9f6854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688188661776
+status: 3
+tags: []
+user_id: Joanna

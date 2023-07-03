@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/fa59df6258624080b2bada56f99a21dd/artifacts
+deleted_time: 1687941387286
+end_time: 1687940002467
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: fa59df6258624080b2bada56f99a21dd
+run_name: sneaky-skink-474
+run_uuid: fa59df6258624080b2bada56f99a21dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687939983853
+status: 3
+tags: []
+user_id: Joanna

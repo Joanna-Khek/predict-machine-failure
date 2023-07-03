@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/d0de896db68c4d6fa8a65258870051ff/artifacts
+end_time: 1688185517261
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: d0de896db68c4d6fa8a65258870051ff
+run_name: thundering-vole-447
+run_uuid: d0de896db68c4d6fa8a65258870051ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185507697
+status: 3
+tags: []
+user_id: Joanna

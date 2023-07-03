@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/91e979d28d354301bb820f1dad4876ab/artifacts
+end_time: 1687958020163
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 91e979d28d354301bb820f1dad4876ab
+run_name: sincere-rat-813
+run_uuid: 91e979d28d354301bb820f1dad4876ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687958010219
+status: 3
+tags: []
+user_id: Joanna

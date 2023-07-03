@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/af674ec9623a46d084eff10a8486ceaf/artifacts
+end_time: 1688197971366
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: af674ec9623a46d084eff10a8486ceaf
+run_name: invincible-wren-909
+run_uuid: af674ec9623a46d084eff10a8486ceaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688197930383
+status: 3
+tags: []
+user_id: Joanna

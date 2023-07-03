@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/ec576a9e61c341c18adf48f141bf5868/artifacts
+end_time: 1688198721848
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: ec576a9e61c341c18adf48f141bf5868
+run_name: resilient-wasp-646
+run_uuid: ec576a9e61c341c18adf48f141bf5868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198713247
+status: 3
+tags: []
+user_id: Joanna

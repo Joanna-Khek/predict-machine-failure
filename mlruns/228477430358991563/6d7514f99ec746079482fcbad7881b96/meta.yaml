@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/6d7514f99ec746079482fcbad7881b96/artifacts
+end_time: 1687946890318
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 6d7514f99ec746079482fcbad7881b96
+run_name: secretive-skink-557
+run_uuid: 6d7514f99ec746079482fcbad7881b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687946799542
+status: 3
+tags: []
+user_id: Joanna

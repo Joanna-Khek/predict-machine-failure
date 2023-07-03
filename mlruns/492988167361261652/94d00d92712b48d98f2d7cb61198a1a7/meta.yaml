@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/94d00d92712b48d98f2d7cb61198a1a7/artifacts
+end_time: 1688184512812
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 94d00d92712b48d98f2d7cb61198a1a7
+run_name: languid-yak-785
+run_uuid: 94d00d92712b48d98f2d7cb61198a1a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688184501368
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/5b32174f3d8748a7adbb473c6b5ee6af/artifacts
+end_time: 1688185412274
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 5b32174f3d8748a7adbb473c6b5ee6af
+run_name: suave-skunk-841
+run_uuid: 5b32174f3d8748a7adbb473c6b5ee6af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185402472
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/5a87570733884744b6b1557fa91c2961/artifacts
+end_time: 1687953909725
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 5a87570733884744b6b1557fa91c2961
+run_name: big-panda-267
+run_uuid: 5a87570733884744b6b1557fa91c2961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687953900346
+status: 3
+tags: []
+user_id: Joanna

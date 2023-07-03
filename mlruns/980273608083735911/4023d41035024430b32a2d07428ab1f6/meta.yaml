@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/4023d41035024430b32a2d07428ab1f6/artifacts
+end_time: 1687952030472
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 4023d41035024430b32a2d07428ab1f6
+run_name: dazzling-ray-272
+run_uuid: 4023d41035024430b32a2d07428ab1f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687952021699
+status: 3
+tags: []
+user_id: Joanna

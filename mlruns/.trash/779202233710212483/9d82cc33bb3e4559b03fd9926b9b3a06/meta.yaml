@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/9d82cc33bb3e4559b03fd9926b9b3a06/artifacts
+deleted_time: 1687941389148
+end_time: 1687935323726
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 9d82cc33bb3e4559b03fd9926b9b3a06
+run_name: stylish-frog-974
+run_uuid: 9d82cc33bb3e4559b03fd9926b9b3a06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935304210
+status: 3
+tags: []
+user_id: Joanna

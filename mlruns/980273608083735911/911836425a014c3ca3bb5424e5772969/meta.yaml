@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/911836425a014c3ca3bb5424e5772969/artifacts
+end_time: 1687951797399
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 911836425a014c3ca3bb5424e5772969
+run_name: clumsy-sponge-886
+run_uuid: 911836425a014c3ca3bb5424e5772969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687951747662
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/9798ff288ba149829fa73504865b23c2/artifacts
+end_time: 1687952658181
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 9798ff288ba149829fa73504865b23c2
+run_name: clumsy-calf-259
+run_uuid: 9798ff288ba149829fa73504865b23c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687952632193
+status: 3
+tags: []
+user_id: Joanna

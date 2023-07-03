@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/2842842f411143b281230962f5aebf1e/artifacts
+end_time: 1687950453153
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 2842842f411143b281230962f5aebf1e
+run_name: exultant-lamb-657
+run_uuid: 2842842f411143b281230962f5aebf1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687950419118
+status: 3
+tags: []
+user_id: Joanna

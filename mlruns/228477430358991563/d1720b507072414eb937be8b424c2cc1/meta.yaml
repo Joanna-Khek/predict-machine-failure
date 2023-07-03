@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/d1720b507072414eb937be8b424c2cc1/artifacts
+end_time: 1688186818457
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: d1720b507072414eb937be8b424c2cc1
+run_name: unruly-skunk-582
+run_uuid: d1720b507072414eb937be8b424c2cc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688186749214
+status: 3
+tags: []
+user_id: Joanna

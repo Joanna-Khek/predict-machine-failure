@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/ebbb48fb740246b0b961826f3b005b46/artifacts
+end_time: 1687959595505
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: ebbb48fb740246b0b961826f3b005b46
+run_name: dashing-cub-460
+run_uuid: ebbb48fb740246b0b961826f3b005b46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959586418
+status: 3
+tags: []
+user_id: Joanna

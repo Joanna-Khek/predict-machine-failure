@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/273c3681f7c8472e82389f986b3b824d/artifacts
+end_time: 1687948956772
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 273c3681f7c8472e82389f986b3b824d
+run_name: caring-shoat-581
+run_uuid: 273c3681f7c8472e82389f986b3b824d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687948931697
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/485f0736da8a48198a8a54691e4e9d44/artifacts
+end_time: 1688350987472
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 485f0736da8a48198a8a54691e4e9d44
+run_name: wise-swan-251
+run_uuid: 485f0736da8a48198a8a54691e4e9d44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688350976109
+status: 3
+tags: []
+user_id: Joanna

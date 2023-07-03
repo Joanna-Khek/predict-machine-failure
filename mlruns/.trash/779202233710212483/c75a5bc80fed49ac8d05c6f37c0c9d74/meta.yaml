@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/c75a5bc80fed49ac8d05c6f37c0c9d74/artifacts
+deleted_time: 1687934523464
+end_time: 1687934408006
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: c75a5bc80fed49ac8d05c6f37c0c9d74
+run_name: enthused-mule-316
+run_uuid: c75a5bc80fed49ac8d05c6f37c0c9d74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934380371
+status: 3
+tags: []
+user_id: Joanna

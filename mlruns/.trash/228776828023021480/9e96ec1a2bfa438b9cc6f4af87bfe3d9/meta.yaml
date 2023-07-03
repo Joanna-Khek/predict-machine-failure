@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/9e96ec1a2bfa438b9cc6f4af87bfe3d9/artifacts
+deleted_time: 1687948532539
+end_time: 1687947917736
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: 9e96ec1a2bfa438b9cc6f4af87bfe3d9
+run_name: sneaky-cub-719
+run_uuid: 9e96ec1a2bfa438b9cc6f4af87bfe3d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687947895913
+status: 3
+tags: []
+user_id: Joanna

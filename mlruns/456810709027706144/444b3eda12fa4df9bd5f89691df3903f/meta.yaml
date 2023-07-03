@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/444b3eda12fa4df9bd5f89691df3903f/artifacts
+end_time: 1687953137180
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 444b3eda12fa4df9bd5f89691df3903f
+run_name: worried-bass-606
+run_uuid: 444b3eda12fa4df9bd5f89691df3903f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687953099758
+status: 3
+tags: []
+user_id: Joanna

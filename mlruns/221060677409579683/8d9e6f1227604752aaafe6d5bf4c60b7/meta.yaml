@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/8d9e6f1227604752aaafe6d5bf4c60b7/artifacts
+end_time: 1687954036427
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 8d9e6f1227604752aaafe6d5bf4c60b7
+run_name: abrasive-penguin-998
+run_uuid: 8d9e6f1227604752aaafe6d5bf4c60b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687954017323
+status: 3
+tags: []
+user_id: Joanna

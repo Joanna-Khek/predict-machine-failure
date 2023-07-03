@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/dcbb0e1ed7a24ab9a8379e3894f048cd/artifacts
+deleted_time: 1687944313932
+end_time: 1687941993250
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: dcbb0e1ed7a24ab9a8379e3894f048cd
+run_name: welcoming-roo-16
+run_uuid: dcbb0e1ed7a24ab9a8379e3894f048cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687941878284
+status: 3
+tags: []
+user_id: Joanna

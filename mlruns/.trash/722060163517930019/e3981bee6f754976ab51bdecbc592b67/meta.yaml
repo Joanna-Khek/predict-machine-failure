@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/722060163517930019/e3981bee6f754976ab51bdecbc592b67/artifacts
+deleted_time: 1687930960105
+end_time: 1687930644470
+entry_point_name: ''
+experiment_id: '722060163517930019'
+lifecycle_stage: deleted
+run_id: e3981bee6f754976ab51bdecbc592b67
+run_name: burly-trout-562
+run_uuid: e3981bee6f754976ab51bdecbc592b67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687930642631
+status: 4
+tags: []
+user_id: Joanna

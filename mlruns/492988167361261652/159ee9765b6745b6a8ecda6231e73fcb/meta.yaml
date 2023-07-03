@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/159ee9765b6745b6a8ecda6231e73fcb/artifacts
+end_time: 1687955192299
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 159ee9765b6745b6a8ecda6231e73fcb
+run_name: worried-cod-321
+run_uuid: 159ee9765b6745b6a8ecda6231e73fcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687955184507
+status: 3
+tags: []
+user_id: Joanna

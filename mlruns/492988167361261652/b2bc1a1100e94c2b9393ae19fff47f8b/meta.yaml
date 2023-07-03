@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/b2bc1a1100e94c2b9393ae19fff47f8b/artifacts
+end_time: 1687958450303
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: b2bc1a1100e94c2b9393ae19fff47f8b
+run_name: upbeat-crab-598
+run_uuid: b2bc1a1100e94c2b9393ae19fff47f8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687958443193
+status: 3
+tags: []
+user_id: Joanna

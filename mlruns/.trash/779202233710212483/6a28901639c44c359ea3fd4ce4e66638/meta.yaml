@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/6a28901639c44c359ea3fd4ce4e66638/artifacts
+deleted_time: 1687941389148
+end_time: 1687934697041
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 6a28901639c44c359ea3fd4ce4e66638
+run_name: zealous-bear-884
+run_uuid: 6a28901639c44c359ea3fd4ce4e66638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934685235
+status: 3
+tags: []
+user_id: Joanna

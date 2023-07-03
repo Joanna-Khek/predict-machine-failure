@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/e6e93f0f526f488db0f65c46f3209755/artifacts
+end_time: 1688185306448
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: e6e93f0f526f488db0f65c46f3209755
+run_name: nosy-snail-100
+run_uuid: e6e93f0f526f488db0f65c46f3209755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185298566
+status: 3
+tags: []
+user_id: Joanna

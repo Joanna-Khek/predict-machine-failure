@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/1b251c2b3d2847c8b117eeec61ce8384/artifacts
+end_time: 1687950887551
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 1b251c2b3d2847c8b117eeec61ce8384
+run_name: intelligent-carp-550
+run_uuid: 1b251c2b3d2847c8b117eeec61ce8384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687950873373
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/0c9e84c2027248839c6da7c7ed4a8b34/artifacts
+end_time: 1688190075450
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 0c9e84c2027248839c6da7c7ed4a8b34
+run_name: adaptable-moose-463
+run_uuid: 0c9e84c2027248839c6da7c7ed4a8b34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688190023108
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/ad4002378a884a1a96bb701a4b0191c1/artifacts
+end_time: 1688189128301
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: ad4002378a884a1a96bb701a4b0191c1
+run_name: orderly-shrike-824
+run_uuid: ad4002378a884a1a96bb701a4b0191c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688189067594
+status: 3
+tags: []
+user_id: Joanna

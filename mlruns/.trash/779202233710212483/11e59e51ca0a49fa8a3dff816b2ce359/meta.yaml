@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/11e59e51ca0a49fa8a3dff816b2ce359/artifacts
+deleted_time: 1687941389148
+end_time: 1687935087185
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 11e59e51ca0a49fa8a3dff816b2ce359
+run_name: incongruous-yak-566
+run_uuid: 11e59e51ca0a49fa8a3dff816b2ce359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935073719
+status: 3
+tags: []
+user_id: Joanna

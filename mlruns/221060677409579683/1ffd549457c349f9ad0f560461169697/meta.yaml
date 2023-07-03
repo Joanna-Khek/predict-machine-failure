@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/1ffd549457c349f9ad0f560461169697/artifacts
+end_time: 1687954327987
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 1ffd549457c349f9ad0f560461169697
+run_name: rogue-hog-12
+run_uuid: 1ffd549457c349f9ad0f560461169697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687954320616
+status: 3
+tags: []
+user_id: Joanna

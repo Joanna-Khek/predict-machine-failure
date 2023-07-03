@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/50fc5ae73f9a4762a06bfc558c61dcde/artifacts
+end_time: 1687953321788
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 50fc5ae73f9a4762a06bfc558c61dcde
+run_name: intrigued-whale-988
+run_uuid: 50fc5ae73f9a4762a06bfc558c61dcde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687953290103
+status: 3
+tags: []
+user_id: Joanna

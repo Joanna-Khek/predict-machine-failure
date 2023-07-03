@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/38f1bc3a8ed94cfc8600da94e32af102/artifacts
+end_time: 1688351267860
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 38f1bc3a8ed94cfc8600da94e32af102
+run_name: placid-skink-938
+run_uuid: 38f1bc3a8ed94cfc8600da94e32af102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688351255093
+status: 3
+tags: []
+user_id: Joanna

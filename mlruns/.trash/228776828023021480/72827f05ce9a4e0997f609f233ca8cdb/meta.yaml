@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/72827f05ce9a4e0997f609f233ca8cdb/artifacts
+deleted_time: 1687948532539
+end_time: 1687947865748
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: 72827f05ce9a4e0997f609f233ca8cdb
+run_name: bustling-ram-358
+run_uuid: 72827f05ce9a4e0997f609f233ca8cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687947851910
+status: 3
+tags: []
+user_id: Joanna

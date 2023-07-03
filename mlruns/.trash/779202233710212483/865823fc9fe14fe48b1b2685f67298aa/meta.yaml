@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/865823fc9fe14fe48b1b2685f67298aa/artifacts
+deleted_time: 1687941389148
+end_time: 1687934834056
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 865823fc9fe14fe48b1b2685f67298aa
+run_name: marvelous-cod-247
+run_uuid: 865823fc9fe14fe48b1b2685f67298aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934815820
+status: 3
+tags: []
+user_id: Joanna

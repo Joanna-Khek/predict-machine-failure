@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/e6e242a84f3044af89546530eea79cf1/artifacts
+end_time: 1688198425648
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: e6e242a84f3044af89546530eea79cf1
+run_name: casual-seal-398
+run_uuid: e6e242a84f3044af89546530eea79cf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198418466
+status: 3
+tags: []
+user_id: Joanna

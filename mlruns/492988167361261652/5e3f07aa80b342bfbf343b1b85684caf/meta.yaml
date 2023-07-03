@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/5e3f07aa80b342bfbf343b1b85684caf/artifacts
+end_time: 1687959737969
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 5e3f07aa80b342bfbf343b1b85684caf
+run_name: handsome-moose-90
+run_uuid: 5e3f07aa80b342bfbf343b1b85684caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959727133
+status: 3
+tags: []
+user_id: Joanna

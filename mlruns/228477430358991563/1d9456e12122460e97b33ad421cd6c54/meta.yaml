@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/1d9456e12122460e97b33ad421cd6c54/artifacts
+end_time: 1688190888944
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 1d9456e12122460e97b33ad421cd6c54
+run_name: carefree-goose-684
+run_uuid: 1d9456e12122460e97b33ad421cd6c54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688190786955
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/daea746697fd4f06b3e2f58f51235fc4/artifacts
+end_time: 1688351754725
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: daea746697fd4f06b3e2f58f51235fc4
+run_name: bouncy-shoat-18
+run_uuid: daea746697fd4f06b3e2f58f51235fc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688351744904
+status: 3
+tags: []
+user_id: Joanna

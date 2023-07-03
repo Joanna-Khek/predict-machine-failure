@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/cb17afe8d6cb4f95bb0b972eb61efb1b/artifacts
+end_time: 1687955155023
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: cb17afe8d6cb4f95bb0b972eb61efb1b
+run_name: gregarious-owl-959
+run_uuid: cb17afe8d6cb4f95bb0b972eb61efb1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687955147916
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/d01458ab61514c3c938255832d3ef181/artifacts
+end_time: 1688194044023
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: d01458ab61514c3c938255832d3ef181
+run_name: trusting-frog-974
+run_uuid: d01458ab61514c3c938255832d3ef181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688193974019
+status: 3
+tags: []
+user_id: Joanna

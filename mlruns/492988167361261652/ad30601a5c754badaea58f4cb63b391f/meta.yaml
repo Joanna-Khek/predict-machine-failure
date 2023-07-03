@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/ad30601a5c754badaea58f4cb63b391f/artifacts
+end_time: 1688199173835
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: ad30601a5c754badaea58f4cb63b391f
+run_name: sincere-shrike-596
+run_uuid: ad30601a5c754badaea58f4cb63b391f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688199167199
+status: 3
+tags: []
+user_id: Joanna

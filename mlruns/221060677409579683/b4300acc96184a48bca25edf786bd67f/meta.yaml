@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/b4300acc96184a48bca25edf786bd67f/artifacts
+end_time: 1687953892450
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: b4300acc96184a48bca25edf786bd67f
+run_name: treasured-boar-489
+run_uuid: b4300acc96184a48bca25edf786bd67f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687953880871
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/2336d944171a4f46a4215944892eac00/artifacts
+end_time: 1687957388525
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 2336d944171a4f46a4215944892eac00
+run_name: flawless-ape-451
+run_uuid: 2336d944171a4f46a4215944892eac00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687957378368
+status: 3
+tags: []
+user_id: Joanna

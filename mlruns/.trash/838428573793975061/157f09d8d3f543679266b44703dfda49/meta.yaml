@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/157f09d8d3f543679266b44703dfda49/artifacts
+deleted_time: 1687941387286
+end_time: 1687940085436
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: 157f09d8d3f543679266b44703dfda49
+run_name: bold-rook-596
+run_uuid: 157f09d8d3f543679266b44703dfda49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940078248
+status: 3
+tags: []
+user_id: Joanna

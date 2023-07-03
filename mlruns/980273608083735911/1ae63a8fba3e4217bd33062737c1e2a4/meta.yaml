@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/1ae63a8fba3e4217bd33062737c1e2a4/artifacts
+end_time: 1687950087763
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 1ae63a8fba3e4217bd33062737c1e2a4
+run_name: popular-smelt-373
+run_uuid: 1ae63a8fba3e4217bd33062737c1e2a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687950076623
+status: 3
+tags: []
+user_id: Joanna

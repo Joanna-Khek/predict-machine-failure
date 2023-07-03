@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/44b7e487560c44c78def445e87eef154/artifacts
+deleted_time: 1687941389148
+end_time: 1687934996715
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 44b7e487560c44c78def445e87eef154
+run_name: traveling-lamb-750
+run_uuid: 44b7e487560c44c78def445e87eef154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934981775
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/8981048636c444e783a80f2ad9b75ba7/artifacts
+deleted_time: 1687948532539
+end_time: 1687947410549
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: 8981048636c444e783a80f2ad9b75ba7
+run_name: persistent-wasp-261
+run_uuid: 8981048636c444e783a80f2ad9b75ba7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687947359899
+status: 3
+tags: []
+user_id: Joanna

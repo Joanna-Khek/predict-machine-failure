@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/f800aedce5574775b755f8700731bd55/artifacts
+end_time: 1687959569154
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: f800aedce5574775b755f8700731bd55
+run_name: casual-auk-174
+run_uuid: f800aedce5574775b755f8700731bd55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959560863
+status: 3
+tags: []
+user_id: Joanna

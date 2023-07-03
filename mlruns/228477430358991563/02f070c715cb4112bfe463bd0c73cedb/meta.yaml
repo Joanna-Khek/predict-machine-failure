@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/02f070c715cb4112bfe463bd0c73cedb/artifacts
+end_time: 1688195717991
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 02f070c715cb4112bfe463bd0c73cedb
+run_name: abundant-goat-692
+run_uuid: 02f070c715cb4112bfe463bd0c73cedb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688195694975
+status: 3
+tags: []
+user_id: Joanna

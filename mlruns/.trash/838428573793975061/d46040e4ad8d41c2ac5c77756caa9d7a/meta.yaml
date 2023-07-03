@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/d46040e4ad8d41c2ac5c77756caa9d7a/artifacts
+deleted_time: 1687941387286
+end_time: 1687940146757
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: d46040e4ad8d41c2ac5c77756caa9d7a
+run_name: sneaky-robin-269
+run_uuid: d46040e4ad8d41c2ac5c77756caa9d7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940136716
+status: 3
+tags: []
+user_id: Joanna

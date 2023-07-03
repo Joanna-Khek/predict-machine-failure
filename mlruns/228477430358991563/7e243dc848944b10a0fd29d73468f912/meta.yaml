@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/7e243dc848944b10a0fd29d73468f912/artifacts
+end_time: 1688195839205
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 7e243dc848944b10a0fd29d73468f912
+run_name: popular-flea-830
+run_uuid: 7e243dc848944b10a0fd29d73468f912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688195777784
+status: 3
+tags: []
+user_id: Joanna

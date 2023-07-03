@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/5f06be21d25d443f824407609e87e985/artifacts
+end_time: 1687953986389
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 5f06be21d25d443f824407609e87e985
+run_name: traveling-owl-685
+run_uuid: 5f06be21d25d443f824407609e87e985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687953978529
+status: 3
+tags: []
+user_id: Joanna

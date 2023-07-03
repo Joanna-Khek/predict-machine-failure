@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/400b97ddbc434704941f1710343f8c2f/artifacts
+end_time: 1688197501033
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 400b97ddbc434704941f1710343f8c2f
+run_name: clumsy-slug-207
+run_uuid: 400b97ddbc434704941f1710343f8c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688197476858
+status: 3
+tags: []
+user_id: Joanna

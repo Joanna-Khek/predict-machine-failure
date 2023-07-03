@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/77323ed2fe8648c38a4c664623afdf79/artifacts
+end_time: 1688196291900
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 77323ed2fe8648c38a4c664623afdf79
+run_name: fearless-bear-210
+run_uuid: 77323ed2fe8648c38a4c664623afdf79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196281220
+status: 3
+tags: []
+user_id: Joanna

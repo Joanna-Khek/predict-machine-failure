@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/f0e85053601c487aa7c5db163d66dc55/artifacts
+end_time: 1687950943041
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: f0e85053601c487aa7c5db163d66dc55
+run_name: bold-crab-534
+run_uuid: f0e85053601c487aa7c5db163d66dc55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687950921523
+status: 3
+tags: []
+user_id: Joanna

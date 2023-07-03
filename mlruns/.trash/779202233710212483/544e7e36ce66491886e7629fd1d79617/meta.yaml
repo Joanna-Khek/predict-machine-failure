@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/544e7e36ce66491886e7629fd1d79617/artifacts
+deleted_time: 1687941389148
+end_time: 1687934794185
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 544e7e36ce66491886e7629fd1d79617
+run_name: enthused-bat-550
+run_uuid: 544e7e36ce66491886e7629fd1d79617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934780625
+status: 3
+tags: []
+user_id: Joanna

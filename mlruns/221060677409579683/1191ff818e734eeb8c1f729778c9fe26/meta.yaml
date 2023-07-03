@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/1191ff818e734eeb8c1f729778c9fe26/artifacts
+end_time: 1688185599681
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 1191ff818e734eeb8c1f729778c9fe26
+run_name: righteous-bird-811
+run_uuid: 1191ff818e734eeb8c1f729778c9fe26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185590506
+status: 3
+tags: []
+user_id: Joanna

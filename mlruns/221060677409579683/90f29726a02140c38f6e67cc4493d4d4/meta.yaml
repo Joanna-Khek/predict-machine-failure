@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/90f29726a02140c38f6e67cc4493d4d4/artifacts
+end_time: 1687954342757
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 90f29726a02140c38f6e67cc4493d4d4
+run_name: monumental-dog-653
+run_uuid: 90f29726a02140c38f6e67cc4493d4d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687954328011
+status: 3
+tags: []
+user_id: Joanna

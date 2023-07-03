@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/42e28423a572489fb68106d5ba182168/artifacts
+end_time: 1687958389523
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 42e28423a572489fb68106d5ba182168
+run_name: inquisitive-mink-215
+run_uuid: 42e28423a572489fb68106d5ba182168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687958378624
+status: 3
+tags: []
+user_id: Joanna

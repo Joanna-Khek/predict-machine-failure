@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/789281292b404f1fa27beb4d3bfc846f/artifacts
+end_time: 1687952105634
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 789281292b404f1fa27beb4d3bfc846f
+run_name: calm-croc-621
+run_uuid: 789281292b404f1fa27beb4d3bfc846f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687952094430
+status: 3
+tags: []
+user_id: Joanna

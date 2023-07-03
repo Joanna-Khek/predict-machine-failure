@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/728e83e58db0418c8fe2c9f5024203fc/artifacts
+end_time: 1688196820686
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 728e83e58db0418c8fe2c9f5024203fc
+run_name: bustling-hare-88
+run_uuid: 728e83e58db0418c8fe2c9f5024203fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196800722
+status: 3
+tags: []
+user_id: Joanna

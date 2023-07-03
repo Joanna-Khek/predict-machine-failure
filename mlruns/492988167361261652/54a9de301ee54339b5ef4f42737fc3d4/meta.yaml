@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/54a9de301ee54339b5ef4f42737fc3d4/artifacts
+end_time: 1687959872110
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 54a9de301ee54339b5ef4f42737fc3d4
+run_name: sassy-colt-431
+run_uuid: 54a9de301ee54339b5ef4f42737fc3d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959863766
+status: 3
+tags: []
+user_id: Joanna

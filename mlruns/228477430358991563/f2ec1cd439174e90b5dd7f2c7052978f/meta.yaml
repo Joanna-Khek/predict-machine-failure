@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/f2ec1cd439174e90b5dd7f2c7052978f/artifacts
+end_time: 1687946929551
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: f2ec1cd439174e90b5dd7f2c7052978f
+run_name: unleashed-rook-227
+run_uuid: f2ec1cd439174e90b5dd7f2c7052978f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687946890348
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/fd5cb80c2d604b6aa11afaf67219121e/artifacts
+end_time: 1687958308339
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: fd5cb80c2d604b6aa11afaf67219121e
+run_name: vaunted-shad-482
+run_uuid: fd5cb80c2d604b6aa11afaf67219121e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687958299983
+status: 3
+tags: []
+user_id: Joanna

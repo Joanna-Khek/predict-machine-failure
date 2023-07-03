@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/b9a51357ab1d4f6b99637bdf1c551c6b/artifacts
+end_time: 1687955397861
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: b9a51357ab1d4f6b99637bdf1c551c6b
+run_name: indecisive-gnu-559
+run_uuid: b9a51357ab1d4f6b99637bdf1c551c6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687955389450
+status: 3
+tags: []
+user_id: Joanna

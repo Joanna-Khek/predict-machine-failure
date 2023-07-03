@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/754d78bf43f64dd99fc1769a7f42117c/artifacts
+end_time: 1688188661764
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 754d78bf43f64dd99fc1769a7f42117c
+run_name: mysterious-cod-770
+run_uuid: 754d78bf43f64dd99fc1769a7f42117c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688188633288
+status: 3
+tags: []
+user_id: Joanna

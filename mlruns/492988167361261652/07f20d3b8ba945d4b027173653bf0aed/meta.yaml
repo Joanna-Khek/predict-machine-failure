@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/07f20d3b8ba945d4b027173653bf0aed/artifacts
+end_time: 1688184336484
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 07f20d3b8ba945d4b027173653bf0aed
+run_name: judicious-dog-694
+run_uuid: 07f20d3b8ba945d4b027173653bf0aed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688184327128
+status: 3
+tags: []
+user_id: Joanna

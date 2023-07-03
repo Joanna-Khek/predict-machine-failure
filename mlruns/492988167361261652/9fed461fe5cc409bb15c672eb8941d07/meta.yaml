@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/9fed461fe5cc409bb15c672eb8941d07/artifacts
+end_time: 1687960008947
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 9fed461fe5cc409bb15c672eb8941d07
+run_name: dapper-dove-818
+run_uuid: 9fed461fe5cc409bb15c672eb8941d07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959996274
+status: 3
+tags: []
+user_id: Joanna

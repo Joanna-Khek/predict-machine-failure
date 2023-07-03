@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/fad9c65023574fc284e54567b0cdc3fd/artifacts
+end_time: 1687951223401
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: fad9c65023574fc284e54567b0cdc3fd
+run_name: rambunctious-sow-655
+run_uuid: fad9c65023574fc284e54567b0cdc3fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687951191896
+status: 3
+tags: []
+user_id: Joanna

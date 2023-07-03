@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/2fb177a179914f7aa4cd3dfd69622d7c/artifacts
+end_time: 1688196554158
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 2fb177a179914f7aa4cd3dfd69622d7c
+run_name: intelligent-sow-751
+run_uuid: 2fb177a179914f7aa4cd3dfd69622d7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196544810
+status: 3
+tags: []
+user_id: Joanna

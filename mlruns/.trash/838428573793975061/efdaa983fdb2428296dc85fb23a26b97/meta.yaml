@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/efdaa983fdb2428296dc85fb23a26b97/artifacts
+deleted_time: 1687941387286
+end_time: 1687940388982
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: efdaa983fdb2428296dc85fb23a26b97
+run_name: capricious-seal-351
+run_uuid: efdaa983fdb2428296dc85fb23a26b97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940376294
+status: 3
+tags: []
+user_id: Joanna

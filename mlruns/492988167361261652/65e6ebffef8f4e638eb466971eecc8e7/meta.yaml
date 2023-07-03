@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/65e6ebffef8f4e638eb466971eecc8e7/artifacts
+end_time: 1687959959274
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 65e6ebffef8f4e638eb466971eecc8e7
+run_name: handsome-doe-297
+run_uuid: 65e6ebffef8f4e638eb466971eecc8e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959951120
+status: 3
+tags: []
+user_id: Joanna

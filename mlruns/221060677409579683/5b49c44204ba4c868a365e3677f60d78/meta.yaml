@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/5b49c44204ba4c868a365e3677f60d78/artifacts
+end_time: 1687959432155
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 5b49c44204ba4c868a365e3677f60d78
+run_name: colorful-squid-809
+run_uuid: 5b49c44204ba4c868a365e3677f60d78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959421156
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/6c3bbf2f3c1e47808d254324f9a9ae68/artifacts
+deleted_time: 1687943431987
+end_time: 1687943362619
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: 6c3bbf2f3c1e47808d254324f9a9ae68
+run_name: capable-seal-545
+run_uuid: 6c3bbf2f3c1e47808d254324f9a9ae68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687943361647
+status: 4
+tags: []
+user_id: Joanna

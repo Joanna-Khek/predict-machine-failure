@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/8bf09abf2ad2412baceba189cc961ea1/artifacts
+end_time: 1688195543473
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 8bf09abf2ad2412baceba189cc961ea1
+run_name: debonair-hog-605
+run_uuid: 8bf09abf2ad2412baceba189cc961ea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688195503536
+status: 3
+tags: []
+user_id: Joanna

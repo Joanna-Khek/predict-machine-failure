@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/d624cec61cc248dfb3aac0f8d9e43065/artifacts
+end_time: 1688196971410
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: d624cec61cc248dfb3aac0f8d9e43065
+run_name: able-seal-635
+run_uuid: d624cec61cc248dfb3aac0f8d9e43065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196945490
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/1b23e5c9208c4cd9ad31f00a31e89b95/artifacts
+end_time: 1687953718495
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 1b23e5c9208c4cd9ad31f00a31e89b95
+run_name: luxuriant-rook-636
+run_uuid: 1b23e5c9208c4cd9ad31f00a31e89b95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687953692326
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/06e17f5a53024507befb09a165d5dc61/artifacts
+end_time: 1687950144080
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 06e17f5a53024507befb09a165d5dc61
+run_name: skittish-boar-444
+run_uuid: 06e17f5a53024507befb09a165d5dc61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687950119270
+status: 3
+tags: []
+user_id: Joanna

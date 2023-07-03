@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/fa2a109781c648e6b728aa358fd482e7/artifacts
+deleted_time: 1687941387286
+end_time: 1687940358068
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: fa2a109781c648e6b728aa358fd482e7
+run_name: judicious-mouse-377
+run_uuid: fa2a109781c648e6b728aa358fd482e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940344837
+status: 3
+tags: []
+user_id: Joanna

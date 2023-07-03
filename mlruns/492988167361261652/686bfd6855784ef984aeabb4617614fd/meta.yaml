@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/686bfd6855784ef984aeabb4617614fd/artifacts
+end_time: 1688351852460
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 686bfd6855784ef984aeabb4617614fd
+run_name: sneaky-hen-959
+run_uuid: 686bfd6855784ef984aeabb4617614fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688351842509
+status: 3
+tags: []
+user_id: Joanna

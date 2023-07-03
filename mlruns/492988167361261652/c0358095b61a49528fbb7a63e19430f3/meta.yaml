@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/c0358095b61a49528fbb7a63e19430f3/artifacts
+end_time: 1688352212240
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: c0358095b61a49528fbb7a63e19430f3
+run_name: orderly-moose-781
+run_uuid: c0358095b61a49528fbb7a63e19430f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688352198529
+status: 3
+tags: []
+user_id: Joanna

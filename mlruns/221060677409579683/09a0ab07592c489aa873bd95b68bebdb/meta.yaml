@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/09a0ab07592c489aa873bd95b68bebdb/artifacts
+end_time: 1688351049880
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 09a0ab07592c489aa873bd95b68bebdb
+run_name: rumbling-asp-43
+run_uuid: 09a0ab07592c489aa873bd95b68bebdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688351038547
+status: 3
+tags: []
+user_id: Joanna

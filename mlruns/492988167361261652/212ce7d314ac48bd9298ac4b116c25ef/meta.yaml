@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/212ce7d314ac48bd9298ac4b116c25ef/artifacts
+end_time: 1687958443161
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 212ce7d314ac48bd9298ac4b116c25ef
+run_name: sincere-zebra-831
+run_uuid: 212ce7d314ac48bd9298ac4b116c25ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687958434898
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/f175c12823d744f898061d8cdb24607e/artifacts
+end_time: 1688185531395
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: f175c12823d744f898061d8cdb24607e
+run_name: nebulous-swan-650
+run_uuid: f175c12823d744f898061d8cdb24607e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185517288
+status: 3
+tags: []
+user_id: Joanna

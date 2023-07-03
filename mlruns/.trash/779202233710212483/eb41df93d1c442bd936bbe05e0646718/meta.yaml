@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/eb41df93d1c442bd936bbe05e0646718/artifacts
+deleted_time: 1687941389148
+end_time: 1687935048488
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: eb41df93d1c442bd936bbe05e0646718
+run_name: bustling-dog-78
+run_uuid: eb41df93d1c442bd936bbe05e0646718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687935036396
+status: 3
+tags: []
+user_id: Joanna

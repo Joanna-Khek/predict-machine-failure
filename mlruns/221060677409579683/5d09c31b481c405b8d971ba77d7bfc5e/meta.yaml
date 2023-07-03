@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/5d09c31b481c405b8d971ba77d7bfc5e/artifacts
+end_time: 1688185641710
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 5d09c31b481c405b8d971ba77d7bfc5e
+run_name: suave-shrike-161
+run_uuid: 5d09c31b481c405b8d971ba77d7bfc5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185623134
+status: 3
+tags: []
+user_id: Joanna

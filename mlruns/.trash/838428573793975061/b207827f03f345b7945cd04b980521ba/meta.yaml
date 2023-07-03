@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/b207827f03f345b7945cd04b980521ba/artifacts
+deleted_time: 1687941387286
+end_time: 1687940792661
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: b207827f03f345b7945cd04b980521ba
+run_name: stylish-toad-884
+run_uuid: b207827f03f345b7945cd04b980521ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940779797
+status: 3
+tags: []
+user_id: Joanna

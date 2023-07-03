@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/5080d0644e6049d1a42dba70b68b02dd/artifacts
+end_time: 1688196156334
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 5080d0644e6049d1a42dba70b68b02dd
+run_name: agreeable-bee-19
+run_uuid: 5080d0644e6049d1a42dba70b68b02dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196146806
+status: 3
+tags: []
+user_id: Joanna

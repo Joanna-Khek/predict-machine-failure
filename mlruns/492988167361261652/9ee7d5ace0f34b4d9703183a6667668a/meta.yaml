@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/9ee7d5ace0f34b4d9703183a6667668a/artifacts
+end_time: 1687960047256
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 9ee7d5ace0f34b4d9703183a6667668a
+run_name: silent-mule-874
+run_uuid: 9ee7d5ace0f34b4d9703183a6667668a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687960040356
+status: 3
+tags: []
+user_id: Joanna

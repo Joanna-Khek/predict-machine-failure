@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/e8df9eb762b14657aab64f7999bd29f1/artifacts
+end_time: 1688351072124
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: e8df9eb762b14657aab64f7999bd29f1
+run_name: mercurial-shad-848
+run_uuid: e8df9eb762b14657aab64f7999bd29f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688351060161
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/69f63a62b6794146a8b04af88533ed91/artifacts
+end_time: 1688184690734
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 69f63a62b6794146a8b04af88533ed91
+run_name: upbeat-pug-112
+run_uuid: 69f63a62b6794146a8b04af88533ed91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688184679694
+status: 3
+tags: []
+user_id: Joanna

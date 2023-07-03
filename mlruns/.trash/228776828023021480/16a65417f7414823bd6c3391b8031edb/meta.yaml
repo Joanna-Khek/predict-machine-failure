@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/16a65417f7414823bd6c3391b8031edb/artifacts
+deleted_time: 1687948532539
+end_time: 1687948384689
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: 16a65417f7414823bd6c3391b8031edb
+run_name: handsome-stork-330
+run_uuid: 16a65417f7414823bd6c3391b8031edb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687948348116
+status: 3
+tags: []
+user_id: Joanna

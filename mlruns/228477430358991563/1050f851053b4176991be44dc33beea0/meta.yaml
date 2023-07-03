@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/1050f851053b4176991be44dc33beea0/artifacts
+end_time: 1688195312631
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 1050f851053b4176991be44dc33beea0
+run_name: victorious-stag-597
+run_uuid: 1050f851053b4176991be44dc33beea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688195231893
+status: 3
+tags: []
+user_id: Joanna

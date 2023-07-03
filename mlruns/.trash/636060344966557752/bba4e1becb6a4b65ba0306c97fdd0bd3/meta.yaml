@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/bba4e1becb6a4b65ba0306c97fdd0bd3/artifacts
+deleted_time: 1687944313932
+end_time: 1687943454654
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: bba4e1becb6a4b65ba0306c97fdd0bd3
+run_name: loud-seal-867
+run_uuid: bba4e1becb6a4b65ba0306c97fdd0bd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687943441513
+status: 3
+tags: []
+user_id: Joanna

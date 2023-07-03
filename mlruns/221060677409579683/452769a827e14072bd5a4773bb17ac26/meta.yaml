@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/452769a827e14072bd5a4773bb17ac26/artifacts
+end_time: 1687954214381
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 452769a827e14072bd5a4773bb17ac26
+run_name: mercurial-fish-398
+run_uuid: 452769a827e14072bd5a4773bb17ac26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687954198693
+status: 3
+tags: []
+user_id: Joanna

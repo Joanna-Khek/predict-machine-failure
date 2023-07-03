@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/34405b40e992465c804f6fabb8bc4880/artifacts
+end_time: 1688189159694
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 34405b40e992465c804f6fabb8bc4880
+run_name: tasteful-ray-954
+run_uuid: 34405b40e992465c804f6fabb8bc4880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688189128313
+status: 3
+tags: []
+user_id: Joanna

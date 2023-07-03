@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/97d61b950d234612ad3cc74fa65df07c/artifacts
+deleted_time: 1687941389148
+end_time: 1687934882494
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 97d61b950d234612ad3cc74fa65df07c
+run_name: angry-carp-857
+run_uuid: 97d61b950d234612ad3cc74fa65df07c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934869093
+status: 3
+tags: []
+user_id: Joanna

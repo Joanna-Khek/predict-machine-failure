@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/1f952778650044d8a279c0c1a7408029/artifacts
+end_time: 1687953484097
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 1f952778650044d8a279c0c1a7408029
+run_name: zealous-dog-518
+run_uuid: 1f952778650044d8a279c0c1a7408029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687953454409
+status: 3
+tags: []
+user_id: Joanna

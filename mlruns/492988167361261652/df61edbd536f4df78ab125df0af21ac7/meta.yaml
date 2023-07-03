@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/df61edbd536f4df78ab125df0af21ac7/artifacts
+end_time: 1687957660192
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: df61edbd536f4df78ab125df0af21ac7
+run_name: righteous-mink-302
+run_uuid: df61edbd536f4df78ab125df0af21ac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687957651612
+status: 3
+tags: []
+user_id: Joanna

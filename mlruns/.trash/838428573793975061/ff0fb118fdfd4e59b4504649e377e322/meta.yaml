@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/ff0fb118fdfd4e59b4504649e377e322/artifacts
+deleted_time: 1687941387286
+end_time: 1687940831491
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: ff0fb118fdfd4e59b4504649e377e322
+run_name: learned-auk-842
+run_uuid: ff0fb118fdfd4e59b4504649e377e322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940826539
+status: 3
+tags: []
+user_id: Joanna

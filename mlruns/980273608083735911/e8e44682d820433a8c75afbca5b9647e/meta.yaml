@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/e8e44682d820433a8c75afbca5b9647e/artifacts
+end_time: 1687951709190
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: e8e44682d820433a8c75afbca5b9647e
+run_name: polite-ray-521
+run_uuid: e8e44682d820433a8c75afbca5b9647e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687951698659
+status: 3
+tags: []
+user_id: Joanna

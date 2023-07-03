@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/62defed0275f49ffb504a9a6afabaebe/artifacts
+end_time: 1688196368393
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 62defed0275f49ffb504a9a6afabaebe
+run_name: defiant-lamb-63
+run_uuid: 62defed0275f49ffb504a9a6afabaebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688196360610
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/387d11294810465cb3738e26566b7bdb/artifacts
+deleted_time: 1687944313932
+end_time: 1687943517497
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: 387d11294810465cb3738e26566b7bdb
+run_name: merciful-shrike-836
+run_uuid: 387d11294810465cb3738e26566b7bdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687943506826
+status: 3
+tags: []
+user_id: Joanna

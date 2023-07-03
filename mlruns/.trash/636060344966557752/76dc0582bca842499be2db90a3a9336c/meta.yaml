@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/76dc0582bca842499be2db90a3a9336c/artifacts
+deleted_time: 1687944313932
+end_time: 1687944310348
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: 76dc0582bca842499be2db90a3a9336c
+run_name: enchanting-fowl-364
+run_uuid: 76dc0582bca842499be2db90a3a9336c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687944285905
+status: 4
+tags: []
+user_id: Joanna

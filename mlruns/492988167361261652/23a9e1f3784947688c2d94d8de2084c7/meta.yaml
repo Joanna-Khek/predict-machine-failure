@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/23a9e1f3784947688c2d94d8de2084c7/artifacts
+end_time: 1687957710923
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 23a9e1f3784947688c2d94d8de2084c7
+run_name: hilarious-deer-95
+run_uuid: 23a9e1f3784947688c2d94d8de2084c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687957705255
+status: 3
+tags: []
+user_id: Joanna

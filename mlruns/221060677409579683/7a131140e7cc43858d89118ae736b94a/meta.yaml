@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/7a131140e7cc43858d89118ae736b94a/artifacts
+end_time: 1688198589025
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 7a131140e7cc43858d89118ae736b94a
+run_name: able-squirrel-16
+run_uuid: 7a131140e7cc43858d89118ae736b94a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198578387
+status: 3
+tags: []
+user_id: Joanna

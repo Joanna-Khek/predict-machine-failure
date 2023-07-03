@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/5e36b86531a44fc2b82e1d26927d8180/artifacts
+end_time: 1687959768397
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: 5e36b86531a44fc2b82e1d26927d8180
+run_name: kindly-swan-427
+run_uuid: 5e36b86531a44fc2b82e1d26927d8180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959758173
+status: 3
+tags: []
+user_id: Joanna

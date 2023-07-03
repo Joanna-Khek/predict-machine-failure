@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/3dbfe1bb60474ad08fc917e8829966ad/artifacts
+deleted_time: 1687948532539
+end_time: 1687947879598
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: 3dbfe1bb60474ad08fc917e8829966ad
+run_name: unique-shad-821
+run_uuid: 3dbfe1bb60474ad08fc917e8829966ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687947865779
+status: 3
+tags: []
+user_id: Joanna

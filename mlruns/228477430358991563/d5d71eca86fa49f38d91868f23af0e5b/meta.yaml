@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/d5d71eca86fa49f38d91868f23af0e5b/artifacts
+end_time: 1687946799514
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: d5d71eca86fa49f38d91868f23af0e5b
+run_name: beautiful-jay-401
+run_uuid: d5d71eca86fa49f38d91868f23af0e5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687946755438
+status: 3
+tags: []
+user_id: Joanna

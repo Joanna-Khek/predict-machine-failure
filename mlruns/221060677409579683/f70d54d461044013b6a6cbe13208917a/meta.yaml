@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/f70d54d461044013b6a6cbe13208917a/artifacts
+end_time: 1688198204317
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: f70d54d461044013b6a6cbe13208917a
+run_name: caring-donkey-194
+run_uuid: f70d54d461044013b6a6cbe13208917a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198193365
+status: 3
+tags: []
+user_id: Joanna

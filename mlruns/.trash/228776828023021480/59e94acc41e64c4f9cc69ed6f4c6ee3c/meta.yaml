@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/59e94acc41e64c4f9cc69ed6f4c6ee3c/artifacts
+deleted_time: 1687948532539
+end_time: 1687948000547
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: 59e94acc41e64c4f9cc69ed6f4c6ee3c
+run_name: serious-jay-216
+run_uuid: 59e94acc41e64c4f9cc69ed6f4c6ee3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687947972229
+status: 3
+tags: []
+user_id: Joanna

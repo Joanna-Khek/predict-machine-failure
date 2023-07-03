@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483/6d318112d5a74d0791450ceb3bf85b36/artifacts
+deleted_time: 1687934523484
+end_time: 1687934214604
+entry_point_name: ''
+experiment_id: '779202233710212483'
+lifecycle_stage: deleted
+run_id: 6d318112d5a74d0791450ceb3bf85b36
+run_name: bouncy-snail-981
+run_uuid: 6d318112d5a74d0791450ceb3bf85b36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687934183138
+status: 3
+tags: []
+user_id: Joanna

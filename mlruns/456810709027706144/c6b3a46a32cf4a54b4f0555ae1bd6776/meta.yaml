@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/c6b3a46a32cf4a54b4f0555ae1bd6776/artifacts
+end_time: 1687952959780
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: c6b3a46a32cf4a54b4f0555ae1bd6776
+run_name: classy-frog-122
+run_uuid: c6b3a46a32cf4a54b4f0555ae1bd6776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687952940193
+status: 3
+tags: []
+user_id: Joanna

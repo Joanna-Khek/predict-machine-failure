@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/520897814fbe4f4cad6964521ddc5363/artifacts
+deleted_time: 1687944313932
+end_time: 1687943544874
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: 520897814fbe4f4cad6964521ddc5363
+run_name: enchanting-fish-337
+run_uuid: 520897814fbe4f4cad6964521ddc5363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687943533834
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911
+creation_time: 1687948554117
+experiment_id: '980273608083735911'
+last_update_time: 1687948554117
+lifecycle_stage: active
+name: gradient_boosting-hyperopt-cv

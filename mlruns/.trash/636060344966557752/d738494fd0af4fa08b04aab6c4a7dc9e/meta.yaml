@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/d738494fd0af4fa08b04aab6c4a7dc9e/artifacts
+deleted_time: 1687944313932
+end_time: 1687943783797
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: d738494fd0af4fa08b04aab6c4a7dc9e
+run_name: placid-duck-896
+run_uuid: d738494fd0af4fa08b04aab6c4a7dc9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687943775089
+status: 3
+tags: []
+user_id: Joanna

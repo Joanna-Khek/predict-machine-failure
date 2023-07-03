@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/471f0fad18ba4551ac2db6936503b5e6/artifacts
+deleted_time: 1687948532539
+end_time: 1687948286440
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: 471f0fad18ba4551ac2db6936503b5e6
+run_name: delicate-gnat-558
+run_uuid: 471f0fad18ba4551ac2db6936503b5e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687948264019
+status: 3
+tags: []
+user_id: Joanna

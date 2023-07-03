@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/3a9fc9866ead4dcfa3400bb8a2b66821/artifacts
+end_time: 1688195503517
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 3a9fc9866ead4dcfa3400bb8a2b66821
+run_name: thoughtful-shoat-424
+run_uuid: 3a9fc9866ead4dcfa3400bb8a2b66821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688195449033
+status: 3
+tags: []
+user_id: Joanna

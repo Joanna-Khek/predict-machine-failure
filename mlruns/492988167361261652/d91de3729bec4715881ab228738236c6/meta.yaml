@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/d91de3729bec4715881ab228738236c6/artifacts
+end_time: 1687958089855
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: d91de3729bec4715881ab228738236c6
+run_name: worried-lark-133
+run_uuid: d91de3729bec4715881ab228738236c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687958078586
+status: 3
+tags: []
+user_id: Joanna

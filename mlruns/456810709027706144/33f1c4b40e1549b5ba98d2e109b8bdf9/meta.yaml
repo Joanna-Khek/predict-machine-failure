@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144/33f1c4b40e1549b5ba98d2e109b8bdf9/artifacts
+end_time: 1688197403587
+entry_point_name: ''
+experiment_id: '456810709027706144'
+lifecycle_stage: active
+run_id: 33f1c4b40e1549b5ba98d2e109b8bdf9
+run_name: nervous-doe-361
+run_uuid: 33f1c4b40e1549b5ba98d2e109b8bdf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688197368490
+status: 3
+tags: []
+user_id: Joanna

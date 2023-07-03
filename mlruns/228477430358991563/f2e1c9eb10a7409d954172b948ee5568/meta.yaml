@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/f2e1c9eb10a7409d954172b948ee5568/artifacts
+end_time: 1687946755406
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: f2e1c9eb10a7409d954172b948ee5568
+run_name: carefree-lynx-64
+run_uuid: f2e1c9eb10a7409d954172b948ee5568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687946681877
+status: 3
+tags: []
+user_id: Joanna

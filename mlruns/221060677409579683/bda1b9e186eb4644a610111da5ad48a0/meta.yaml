@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/bda1b9e186eb4644a610111da5ad48a0/artifacts
+end_time: 1688198440141
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: bda1b9e186eb4644a610111da5ad48a0
+run_name: languid-crane-795
+run_uuid: bda1b9e186eb4644a610111da5ad48a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688198425671
+status: 3
+tags: []
+user_id: Joanna

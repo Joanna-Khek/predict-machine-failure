@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/4b2c0d4ee203496fbbe4769539e2c136/artifacts
+end_time: 1687948624904
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 4b2c0d4ee203496fbbe4769539e2c136
+run_name: debonair-dog-931
+run_uuid: 4b2c0d4ee203496fbbe4769539e2c136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687948613836
+status: 3
+tags: []
+user_id: Joanna

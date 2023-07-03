@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/0f5c4f16eaf048c0bbdbb38a6d003466/artifacts
+end_time: 1688190555015
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 0f5c4f16eaf048c0bbdbb38a6d003466
+run_name: funny-zebra-870
+run_uuid: 0f5c4f16eaf048c0bbdbb38a6d003466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688190506872
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/d007482863d24bfebc9efc0820ddaf3c/artifacts
+end_time: 1687954188249
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: d007482863d24bfebc9efc0820ddaf3c
+run_name: adorable-asp-366
+run_uuid: d007482863d24bfebc9efc0820ddaf3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687954172752
+status: 3
+tags: []
+user_id: Joanna

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/838428573793975061/7a6d3c36e22c42c396066857501572ad/artifacts
+deleted_time: 1687941387286
+end_time: 1687940302153
+entry_point_name: ''
+experiment_id: '838428573793975061'
+lifecycle_stage: deleted
+run_id: 7a6d3c36e22c42c396066857501572ad
+run_name: likeable-penguin-0
+run_uuid: 7a6d3c36e22c42c396066857501572ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687940289498
+status: 3
+tags: []
+user_id: Joanna

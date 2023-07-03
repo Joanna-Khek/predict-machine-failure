@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/cb7a8da0f6fa4d3388e1d40e8a861d4c/artifacts
+end_time: 1688185454430
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: cb7a8da0f6fa4d3388e1d40e8a861d4c
+run_name: glamorous-skunk-370
+run_uuid: cb7a8da0f6fa4d3388e1d40e8a861d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688185434754
+status: 3
+tags: []
+user_id: Joanna

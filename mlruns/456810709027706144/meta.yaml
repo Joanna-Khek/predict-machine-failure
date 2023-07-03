@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/456810709027706144
+creation_time: 1687952133132
+experiment_id: '456810709027706144'
+last_update_time: 1687952133132
+lifecycle_stage: active
+name: adaptive_boosting-hyperopt-cv

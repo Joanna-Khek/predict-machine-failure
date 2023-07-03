@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/980273608083735911/90ee89ca6281424c99a98cf315f28706/artifacts
+end_time: 1687952071075
+entry_point_name: ''
+experiment_id: '980273608083735911'
+lifecycle_stage: active
+run_id: 90ee89ca6281424c99a98cf315f28706
+run_name: amusing-kite-772
+run_uuid: 90ee89ca6281424c99a98cf315f28706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687952054920
+status: 3
+tags: []
+user_id: Joanna

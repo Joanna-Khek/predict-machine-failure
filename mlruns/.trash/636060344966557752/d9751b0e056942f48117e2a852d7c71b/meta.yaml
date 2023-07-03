@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/636060344966557752/d9751b0e056942f48117e2a852d7c71b/artifacts
+deleted_time: 1687944313932
+end_time: 1687944221656
+entry_point_name: ''
+experiment_id: '636060344966557752'
+lifecycle_stage: deleted
+run_id: d9751b0e056942f48117e2a852d7c71b
+run_name: merciful-snail-17
+run_uuid: d9751b0e056942f48117e2a852d7c71b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687944198049
+status: 3
+tags: []
+user_id: Joanna

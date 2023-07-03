@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563/44e46051cdd3402fbddb1ec5a705379a/artifacts
+end_time: 1688194245965
+entry_point_name: ''
+experiment_id: '228477430358991563'
+lifecycle_stage: active
+run_id: 44e46051cdd3402fbddb1ec5a705379a
+run_name: unleashed-eel-942
+run_uuid: 44e46051cdd3402fbddb1ec5a705379a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688194172959
+status: 3
+tags: []
+user_id: Joanna

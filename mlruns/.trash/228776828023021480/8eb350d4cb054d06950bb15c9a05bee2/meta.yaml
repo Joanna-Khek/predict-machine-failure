@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228776828023021480/8eb350d4cb054d06950bb15c9a05bee2/artifacts
+deleted_time: 1687948532539
+end_time: 1687948263990
+entry_point_name: ''
+experiment_id: '228776828023021480'
+lifecycle_stage: deleted
+run_id: 8eb350d4cb054d06950bb15c9a05bee2
+run_name: intrigued-slug-690
+run_uuid: 8eb350d4cb054d06950bb15c9a05bee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687948201828
+status: 3
+tags: []
+user_id: Joanna

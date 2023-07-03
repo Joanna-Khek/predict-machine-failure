@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/492988167361261652/d92d6f3e78194d9885d28419d0af2b99/artifacts
+end_time: 1688184311003
+entry_point_name: ''
+experiment_id: '492988167361261652'
+lifecycle_stage: active
+run_id: d92d6f3e78194d9885d28419d0af2b99
+run_name: bemused-sheep-700
+run_uuid: d92d6f3e78194d9885d28419d0af2b99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688184304519
+status: 3
+tags: []
+user_id: Joanna

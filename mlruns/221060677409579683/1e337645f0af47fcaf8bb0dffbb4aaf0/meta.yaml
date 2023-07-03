@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/221060677409579683/1e337645f0af47fcaf8bb0dffbb4aaf0/artifacts
+end_time: 1687959311697
+entry_point_name: ''
+experiment_id: '221060677409579683'
+lifecycle_stage: active
+run_id: 1e337645f0af47fcaf8bb0dffbb4aaf0
+run_name: angry-colt-831
+run_uuid: 1e337645f0af47fcaf8bb0dffbb4aaf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959300525
+status: 3
+tags: []
+user_id: Joanna
