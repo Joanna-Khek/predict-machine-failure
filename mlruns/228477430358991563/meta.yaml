@@ -1,6 +1,0 @@
-artifact_location: file:///C:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/228477430358991563
-creation_time: 1687944335062
-experiment_id: '228477430358991563'
-last_update_time: 1687944335062
-lifecycle_stage: active
-name: random_forest-hyperopt-cv

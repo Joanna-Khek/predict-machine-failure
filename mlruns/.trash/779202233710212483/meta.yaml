@@ -1,7 +1,0 @@
-artifact_location: file:///c:/Users/Joanna/Desktop/Projects/predict-machine-failure/mlruns/779202233710212483
-creation_time: 1687934091566
-experiment_id: '779202233710212483'
-last_update_time: 1687941389148
-lifecycle_stage: deleted
-name: hyperopt-cv-rf
-tags: {}
