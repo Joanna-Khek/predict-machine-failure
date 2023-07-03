@@ -1,3 +1,4 @@
-mlruns
-examples
-static
+mlruns/
+examples/
+static/
+__pycache__/
