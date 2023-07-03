@@ -15,3 +15,25 @@ Run Docker Container
 
 Access API to get prediction   
 ``http://localhost/docs``
+
+Using CURL to get prediction   
+``
+curl -X 'POST' \
+  'http://localhost/predict' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "ProductID": "ABCDE",
+  "Type": "M",
+  "AirTemperature": 320.4,
+  "ProcessTemperature": 302.5,
+  "RotationalSpeed": 1500,
+  "Torque": 36.0 ,
+  "ToolWear": 150,
+  "TWF": 0,
+  "HDF": 0,
+  "PWF": 0,
+  "OSF": 0,
+  "RNF": 0
+}'
+``
