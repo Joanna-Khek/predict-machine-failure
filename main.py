@@ -21,28 +21,28 @@ if __name__ == "__main__":
     y = df_train.MachineFailure
 
     # Baseline results without feature selection
-    training_baseline(X, y, feature_selection=False)
+    #training_baseline(X, y, feature_selection=False)
 
     # Baseline results with feature selection
-    training_baseline(X, y, feature_selection=True)
+    #training_baseline(X, y, feature_selection=True)
 
     # Find best hyperparams and train using those best params
-    RF = run_search(X, y, 'random_forest', rf_params)
-    GB = run_search(X, y, 'gradient_boosting', gb_params)
-    ADA = run_search(X, y, 'adaptive_boosting', ada_params)
+    #RF = run_search(X, y, 'random_forest', rf_params)
+    #GB = run_search(X, y, 'gradient_boosting', gb_params)
+    #ADA = run_search(X, y, 'adaptive_boosting', ada_params)
     XGB = run_search(X, y, 'xgboost', xg_params)
-    LGBM = run_search(X, y, 'light_gradient_boosting', lgbm_params)
+    #LGBM = run_search(X, y, 'light_gradient_boosting', lgbm_params)
 
     # Load model
-    RF = pickle_load(filename="random_forest", path="models/")
-    GB = pickle_load(filename="gradient_boosting", path="models/")
-    ADA = pickle_load(filename="adaptive_boosting", path="models/")
-    XGB = pickle_load(filename="xgboost", path="models/")
-    LGBM = pickle_load(filename="light_gradient_boosting", path="models/")
+    #RF = pickle_load(filename="random_forest", path="models/")
+    #GB = pickle_load(filename="gradient_boosting", path="models/")
+    #ADA = pickle_load(filename="adaptive_boosting", path="models/")
+    #XGB = pickle_load(filename="xgboost", path="models/")
+    #LGBM = pickle_load(filename="light_gradient_boosting", path="models/")
 
     # Ensemble
-    estimator = [('RF', RF), ('GB', GB), ('ADA', ADA), ('XGB', XGB), ('LGBM', LGBM)]
-    ensemble(X, y, estimator, voting='hard', feature_selection=True)
+    #estimator = [('RF', RF), ('GB', GB), ('ADA', ADA), ('XGB', XGB), ('LGBM', LGBM)]
+    #ensemble(X, y, estimator, voting='hard', feature_selection=True)
 
 
    

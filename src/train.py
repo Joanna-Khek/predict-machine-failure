@@ -35,7 +35,8 @@ def train(X: pd.DataFrame, y: pd.DataFrame, k_fold, model, feature_selection=Fal
         X_val, y_val = X.iloc[val_idx,:], y[val_idx]
 
         # Preprocess fold train and fold validation
-        X_train_processed, X_val_processed = preprocess(X_train, X_val, feature_selection)
+        X_train_processed, X_val_processed = preprocess(X_train, X_val, 
+                                                        feature_selection=feature_selection)
 
         model = model
         model.fit(X_train_processed, y_train)
@@ -60,14 +61,14 @@ def training_baseline(X: pd.DataFrame, y: pd.DataFrame, feature_selection=False)
     """
 
     k_fold = StratifiedKFold(n_splits=5, shuffle=True)
-    print(f"\n [Feature Selection == {feature_selection}]")
+    print(f"\n[Feature Selection == {feature_selection}]")
     for model_name in model_selector:
-        print("===================")
+        print("==========================")
         print(f"Model : {model_name}")
-        print("===================")
+        print("==========================")
 
         model = model_selector[model_name]
-        train(X, y, k_fold, model, feature_selection)
+        train(X, y, k_fold, model, feature_selection=feature_selection)
      
 
 def ensemble(X, y, estimators: list, voting='hard', feature_selection=True):

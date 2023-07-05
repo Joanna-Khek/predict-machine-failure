@@ -6,7 +6,7 @@ train_data: train.csv
 test_data: test.csv
 
 drop_columns: ['id']
-feature_selection_drop_columns: ['RNF', 'ProductID_freq']
+feature_selection_drop_columns: ['RNF', 'ProductID']
 
 columns: {'Product ID': 'ProductID',
           'Air temperature [K]': 'AirTemperature',

@@ -26,7 +26,7 @@ class Machine(BaseModel):
 @app.on_event("startup")
 def load_clf():
     # Load classifier from pickle file
-    with open("models/random_forest.pickle", "rb") as file:
+    with open("models/xgboost.pickle", "rb") as file:
         global clf
         clf = pickle.load(file)
 
@@ -61,8 +61,10 @@ def predict(machine: Machine):
     df_train = read_data("train_data")
     X = df_train.drop("MachineFailure", axis=1)
 
+    print("Processed...")
     X_train_processed, X_test_processed = preprocess(X, data_point, feature_selection=True)
 
+    print("Predict..")
     pred = clf.predict(X_test_processed).tolist()
     pred = pred[0]
     print(pred)
